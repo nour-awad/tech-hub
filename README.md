@@ -9,7 +9,6 @@ Tech Hub is a web application designed to streamline the operations of an online
   - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Getting Started
 
@@ -36,11 +35,3 @@ Tech Hub is a web application designed to streamline the operations of an online
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- [Express.js](https://expressjs.com/)
-- [Flask](https://flask.palletsprojects.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Bootstrap](https://getbootstrap.com/)
-- [FontAwesome](https://fontawesome.com/)
