@@ -1,53 +1,53 @@
-*Meeting Update*
+Meeting Minutes
 
-**Date:** 7 Dec 2023
+Date: 7 Dec 2023
 
-**Time:** 19:00
+Time: 19:00
 
-**Location:** Online Meeting
+Location: Online Meeting
 
-**Attendees:**
+Attendees:
 - Nour Awad
 - Ahmed Taha
 - Karim Ashraf
 - Faris Sharara
 
-**Agenda:**
+Agenda:
 - Progress update on design pattern implementation
 - CI/CD pipeline status check
 - SQL issue resolution follow-up
 - Discussion on any challenges
 
-**Minutes:**
+Minutes:
 
-1. **Rescheduled Meeting:**
+1. Rescheduled Meeting:
    - The meeting originally scheduled for Monday was rescheduled to Thursday due to all team members having two quizzes the next day.
 
-2. **Design Pattern Implementation:**
+2. Design Pattern Implementation:
    - Team members provided updates on the implementation of discussed design patterns, sharing insights and challenges faced during the process.
 
-3. **CI/CD Pipeline Status Check:**
+3. CI/CD Pipeline Status Check:
    - Faris provided a status check on the CI/CD pipeline, ensuring that the deployment process is smooth and error-free.
 
-4. **Resolution of SQL Issues:**
+4. Resolution of SQL Issues:
    - Karim addressed complex SQL issues that were challenging to understand. He shared his solutions and provided clarification to the team.
 
-5. **Discussion on Challenges:**
+5. Discussion on Challenges:
    - Team members discussed any challenges or roadblocks encountered during the implementation of design patterns and other tasks. Collaborative solutions were proposed.
 
-6. **Next Steps:**
+6. Next Steps:
    - The team outlined the next steps for incorporating the discussed design patterns into the project. 
    - Faris and Karim were appreciated for their contributions to the CI/CD and SQL issue resolution, respectively.
 
-7. **Closure:**
+7. Closure:
    - The meeting was adjourned at 20:30, with a reminder to stay proactive in addressing challenges and maintaining effective communication.
 
-**Action Items:**
+Action Items:
 - All team members: Continue with the implementation of design patterns and address any challenges encountered.
 - Faris: Ensure the CI/CD pipeline is optimized and error-free.
 - Karim: Monitor the SQL components to ensure continued stability.
 
-**Next Meeting:**
+Next Meeting:
 - Date: Thursday 14 December 2023
 - Time: 19:00
 - Location: Online Meeting
