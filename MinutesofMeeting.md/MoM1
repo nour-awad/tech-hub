@@ -1,35 +1,35 @@
-*Meeting Minutes*
+Meeting Minutes
 
-**Date:** 30 Nov 2023
+Date: 30 Nov 2023
 
-**Time:** 21:00
+Time: 21:00
 
-**Location:** Online Meeting
+Location: Online Meeting
 
-**Attendees:**
+Attendees:
 - Ahmed
 - Karim
 - Faris
 - Nour
 
-**Agenda:**
+Agenda:
 - Discussion on changing the backend framework to ASP.Net using C#
 - Assignment of tasks for customer and admin pages
 
-**Minutes:**
+Minutes:
 
-1. **Introduction:**
+1. Introduction:
    - The meeting was called to order at 21:00 with Ahmed, Karim, Faris, and Nour in attendance.
 
-2. **Change of Backend Framework:**
+2. Change of Backend Framework:
    - Faris initiated the discussion on changing the backend framework from Flask to ASP.Net using C#.
    - The reasons for considering this change were discussed, including potential benefits such as improved scalability and integration capabilities.
    - Team members shared their thoughts and concerns regarding the proposed framework change.
 
-3. **Decision:**
+3. Decision:
    - After thorough discussion, the team reached a consensus to proceed with the change to ASP.Net using C# for the backend framework.
 
-4. **Task Assignment:**
+4. Task Assignment:
    - Customer Pages:
      - Karim and Ahmed volunteered to work on the customer pages.
      - They will collaborate to ensure a smooth transition and integration of the new framework for customer-facing functionalities.
@@ -38,23 +38,23 @@
      - Nour and Faris are assigned to handle the admin pages.
      - Their responsibilities include adapting the existing functionality to the new framework and ensuring proper functionality.
 
-5. **Timeline:**
+5. Timeline:
    - A tentative timeline for the transition was discussed, taking into consideration the complexity of the task and the team's availability.
    - Team members agreed to provide regular updates on their progress during subsequent meetings.
 
-6. **Next Steps:**
+6. Next Steps:
    - Team members were encouraged to raise any concerns or roadblocks they might encounter during the implementation.
    - The next meeting was scheduled for Monday 4 December 2023 to review the progress and address any issues that arise during the transition.
 
-7. **Closure:**
+7. Closure:
    - The meeting was adjourned at 22:30, thanking everyone for their participation and commitment to the project.
 
-**Action Items:**
+Action Items:
 - Ahmed and Karim: Work on customer pages using ASP.Net with C#
 - Nour and Faris: Handle the adaptation of admin pages to ASP.Net with C#
 - All team members: Provide regular updates on progress and raise any concerns during subsequent meetings.
 
-**Next Meeting:**
+Next Meeting:
 - Date: Monday 2 December 2023
 - Time: 19:00
 - Location: Online Meeting
