@@ -1,0 +1,61 @@
+*Meeting Minutes*
+
+*Date:* 14 Dec 2023
+*Time:* 19:00
+*Location:* Online Meeting
+
+*Attendees:*
+- Ahmed
+- Karim
+- Faris
+- Nour
+
+*Agenda:*
+- Introduction of new sprints and assignment of tasks for the upcoming phases
+
+*Minutes:*
+
+1. *Introduction:*
+   - The meeting was called to order at 19:00 with Ahmed, Karim, Faris, and Nour in attendance.
+
+2. *Introduction of New Sprints:*
+   - New sprints were introduced to streamline the project development process.
+
+3. *Sprint Details:*
+   - *Sprint 1 - Database Creation:*
+      - Ahmed was assigned the task of creating the database. Key considerations include database design, schema creation, and ensuring optimal performance.
+
+   - *Sprint 2 - Filling Database Tables:*
+      - Karim was assigned the responsibility of populating the database tables with relevant data. This includes data validation and maintaining data integrity.
+
+   - *Sprint 3 - Frontend Template Selection:*
+      - Faris is responsible for choosing an online template for the frontend. This task includes filtering and selecting a template that aligns with project requirements and design principles.
+
+   - *Sprint 4 - Template Integration to Razor Pages:*
+      - Nour was assigned the task of integrating the chosen template into Razor Pages. This involves ensuring a seamless user interface and proper functionality.
+
+4. *Task Clarifications:*
+   - Team members sought clarification on their respective tasks and discussed any dependencies or collaboration needed.
+
+5. *Timeline and Deadlines:*
+   - A tentative timeline was discussed for the completion of each sprint. Deadlines were established to ensure a smooth flow of project development.
+
+6. *Communication and Collaboration:*
+   - The importance of open communication and collaboration among team members during the execution of tasks was emphasized.
+
+7. *Next Steps:*
+   - Team members were encouraged to commence work on their assigned sprints promptly and provide regular updates on progress.
+
+8. *Closure:*
+   - The meeting was adjourned at 20:30, expressing gratitude to the team for their commitment to the project.
+
+*Action Items:*
+- Ahmed: Database creation (Sprint 1)
+- Karim: Filling database tables (Sprint 2)
+- Faris: Frontend template selection and filtering (Sprint 3)
+- Nour: Template integration to Razor Pages (Sprint 4)
+
+*Next Meeting:*
+- Date: 21 December 2023
+- Time: 19:00
+- Location: Online Meeting
