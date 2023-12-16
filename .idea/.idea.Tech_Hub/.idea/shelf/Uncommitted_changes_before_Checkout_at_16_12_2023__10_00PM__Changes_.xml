@@ -1,0 +1,34 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_16_12_2023,_10_00 PM_[Changes]" date="1702756811662" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_12_2023,_10_00 PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 16/12/2023, 10:00 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" />
+    <option name="AFTER_PATH" value="Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_12_2023,_10_00 PM_[Changes]/Tech_Hub.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" />
+    <option name="AFTER_PATH" value="Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_12_2023,_10_00 PM_[Changes]/Tech_Hub.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" />
+    <option name="AFTER_PATH" value="Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_12_2023,_10_00 PM_[Changes]/Tech_Hub1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" />
+    <option name="AFTER_PATH" value="Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_12_2023,_10_00 PM_[Changes]/Tech_Hub1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/obj/Debug/net7.0/ref/Tech_Hub.dll" />
+    <option name="AFTER_PATH" value="Tech_Hub/obj/Debug/net7.0/ref/Tech_Hub.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_12_2023,_10_00 PM_[Changes]/Tech_Hub2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/obj/Debug/net7.0/refint/Tech_Hub.dll" />
+    <option name="AFTER_PATH" value="Tech_Hub/obj/Debug/net7.0/refint/Tech_Hub.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Checkout_at_16_12_2023,_10_00 PM_[Changes]/Tech_Hub3.dll" />
+  </binary>
+</changelist>

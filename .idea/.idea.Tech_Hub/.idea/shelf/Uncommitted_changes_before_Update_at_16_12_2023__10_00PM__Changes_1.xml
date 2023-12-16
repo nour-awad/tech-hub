@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Update_at_16_12_2023,_10_00 PM_[Changes]1" date="1702756893123" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2023,_10_00 PM_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 16/12/2023, 10:00 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Tech_Hub/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2023,_10_00 PM_[Changes]1/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2023,_10_00 PM_[Changes]1/Tech_Hub.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="Tech_Hub/obj/Debug/net7.0/apphost" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2023,_10_00 PM_[Changes]1/apphost" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Tech_Hub/obj/Debug/net7.0/Tech_Hub.assets.cache" />
+    <option name="AFTER_PATH" value="Tech_Hub/obj/Debug/net7.0/Tech_Hub.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2023,_10_00 PM_[Changes]1/Tech_Hub.assets.cache" />
+  </binary>
+</changelist>

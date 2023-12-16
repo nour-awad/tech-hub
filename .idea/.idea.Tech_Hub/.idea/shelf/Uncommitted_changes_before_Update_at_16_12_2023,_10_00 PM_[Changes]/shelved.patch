@@ -1,0 +1,89 @@
+Index: Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>is_global = true\nbuild_property.TargetFramework = net7.0\nbuild_property.TargetPlatformMinVersion = \nbuild_property.UsingMicrosoftNETSdkWeb = true\nbuild_property.ProjectTypeGuids = \nbuild_property.InvariantGlobalization = \nbuild_property.PlatformNeutralAssembly = \nbuild_property.EnforceExtendedAnalyzerRules = \nbuild_property._SupportedPlatformList = Linux,macOS,Windows\nbuild_property.RootNamespace = Tech_Hub\nbuild_property.RootNamespace = Tech_Hub\nbuild_property.ProjectDir = C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\\nbuild_property.RazorLangVersion = 7.0\nbuild_property.SupportLocalizedComponentNames = \nbuild_property.GenerateRazorMetadataSourceChecksumAttributes = \nbuild_property.MSBuildProjectDirectory = C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\nbuild_property._RazorSourceGeneratorDebug = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/checkout.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2hlY2tvdXQuY3NodG1s\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Error.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Index.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/LogIn.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nSW4uY3NodG1s\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Privacy.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Product.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdC5jc2h0bWw=\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Shared/_ValidationScriptsPartial.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Shop.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC5jc2h0bWw=\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/_ViewImports.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/_ViewStart.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=\nbuild_metadata.AdditionalFiles.CssScope = \n\n[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Shared/_Layout.cshtml]\nbuild_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s\nbuild_metadata.AdditionalFiles.CssScope = b-hodnyxb2ju\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig b/Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig
+--- a/Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig	
++++ b/Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig	
+@@ -9,53 +9,53 @@
+ build_property._SupportedPlatformList = Linux,macOS,Windows
+ build_property.RootNamespace = Tech_Hub
+ build_property.RootNamespace = Tech_Hub
+-build_property.ProjectDir = C:\Users\Blu-Ray\OneDrive\Documents\Zewail\DB\Project\Tech_Hub\Tech_Hub\
++build_property.ProjectDir = /Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/
+ build_property.RazorLangVersion = 7.0
+ build_property.SupportLocalizedComponentNames = 
+ build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+-build_property.MSBuildProjectDirectory = C:\Users\Blu-Ray\OneDrive\Documents\Zewail\DB\Project\Tech_Hub\Tech_Hub
++build_property.MSBuildProjectDirectory = /Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub
+ build_property._RazorSourceGeneratorDebug = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/checkout.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2hlY2tvdXQuY3NodG1s
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvY2hlY2tvdXQuY3NodG1s
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Error.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/Error.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Index.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/Index.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/LogIn.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nSW4uY3NodG1s
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/LogIn.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nSW4uY3NodG1s
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Privacy.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/Privacy.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Product.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdC5jc2h0bWw=
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/Product.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdC5jc2h0bWw=
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Shared/_ValidationScriptsPartial.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/Shared/_ValidationScriptsPartial.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Shop.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC5jc2h0bWw=
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/Shop.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hvcC5jc2h0bWw=
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/_ViewImports.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/_ViewImports.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/_ViewStart.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/_ViewStart.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+ build_metadata.AdditionalFiles.CssScope = 
+ 
+-[C:/Users/Blu-Ray/OneDrive/Documents/Zewail/DB/Project/Tech_Hub/Tech_Hub/Pages/Shared/_Layout.cshtml]
+-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+-build_metadata.AdditionalFiles.CssScope = b-hodnyxb2ju
++[/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/Shared/_Layout.cshtml]
++build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
++build_metadata.AdditionalFiles.CssScope = b-xbl5c45fse
