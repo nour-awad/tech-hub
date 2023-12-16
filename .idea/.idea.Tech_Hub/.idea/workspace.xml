@@ -9,7 +9,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="added SignIn.cshtml and SignIn.cshtml.cs" />
+    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tech_Hub/Pages/SignIn.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Hub/Pages/SignIn.cshtml.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Hub/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tech_Hub/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/Tech_Hub.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/Tech_Hub.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/ref/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/ref/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/refint/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/refint/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.pack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Tech_Hub.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Tech_Hub.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Tech_Hub.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Tech_Hub.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/rider.project.model.nuget.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,31 +66,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.Tech_Hub: http.executor": "Run",
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Tech_Hub: http.executor&quot;: &quot;Run&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;front-end&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/nourmeyy/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
-      "/Users/nourmeyy/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache",
-      "/Users/nourmeyy/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/nourmeyy/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/nourmeyy/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
+      &quot;/Users/nourmeyy/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Tech_Hub: http">
     <configuration name="Tech_Hub: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Tech_Hub/Tech_Hub.csproj" />
@@ -108,6 +141,11 @@
       <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.Tech_Hub: http" />
+      <item itemvalue=".NET Launch Settings Profile.Tech_Hub: https" />
+      <item itemvalue="Docker.Tech_Hub/Dockerfile" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -151,6 +189,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="added SignIn.cshtml and SignIn.cshtml.cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="added SignIn.cshtml and SignIn.cshtml.cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

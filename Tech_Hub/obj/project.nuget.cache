@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PYMEsVBGKxfVysJ4AvTs7JPh6Ko3dqzUHMNIFfjf3cbx8Ko116i35vMlRLqyp1NkRzl6aYxFb7G9hDOBSW1l2w==",
+  "dgSpecHash": "w9ZnNsuSQ1Cm9+iQtmClqW61uuZXSstORjsUE3stVswlIxLQujT0FbYPEoWGLT+M83+VNmiNbFX8SSt9FTLTFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\Tech_Hub.csproj",
+  "projectFilePath": "/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Tech_Hub.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Blu-Ray\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+    "/Users/nourmeyy/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.17.2/microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
   ],
   "logs": []
 }
