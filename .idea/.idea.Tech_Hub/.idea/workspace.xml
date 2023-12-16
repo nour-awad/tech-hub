@@ -10,8 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="added SignIn.cshtml.cs and  SignIn.cshtml pages">
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/Pages/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tech_Hub/Pages/SignIn.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/Pages/SignIn.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/ref/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/ref/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/refint/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/refint/Tech_Hub.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
