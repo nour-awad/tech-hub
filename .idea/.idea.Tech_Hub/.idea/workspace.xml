@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="added SignIn.cshtml.cs and  SignIn.cshtml pages" />
+    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="edited payment methods in checkout.cshtml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -153,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702757209635</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="edited payment methods in checkout.cshtml">
+      <option name="closed" value="true" />
+      <created>1702761457005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702761457005</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +175,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="added SignIn.cshtml and SignIn.cshtml.cs" />
     <MESSAGE value="added SignIn.cshtml.cs and  SignIn.cshtml pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="added SignIn.cshtml.cs and  SignIn.cshtml pages" />
+    <MESSAGE value="edited payment methods in checkout.cshtml" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited payment methods in checkout.cshtml" />
   </component>
 </project>
