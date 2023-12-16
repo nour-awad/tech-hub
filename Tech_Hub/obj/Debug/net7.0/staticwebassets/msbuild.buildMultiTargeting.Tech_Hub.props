@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Tech_Hub.props" />
+</Project>
