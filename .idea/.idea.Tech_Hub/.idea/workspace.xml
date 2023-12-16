@@ -9,28 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="removed terms and conditions section" />
+    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="added SignIn.cshtml and SignIn.cshtml.cs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -45,34 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.Tech_Hub: http.executor&quot;: &quot;Run&quot;,
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;front-end&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.Tech_Hub: http.executor": "Run",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/nourmeyy/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/nourmeyy/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache&quot;,
-      &quot;/Users/nourmeyy/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/nourmeyy/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
+      "/Users/nourmeyy/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache",
+      "/Users/nourmeyy/.local/share/Symbols/src"
     ]
   }
-}</component>
-  <component name="Push.Settings">
-    <option name="SHOW_DETAILS_PANEL" value="false" />
-  </component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Tech_Hub: http">
     <configuration name="Tech_Hub: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Tech_Hub/Tech_Hub.csproj" />
@@ -123,11 +108,6 @@
       <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue=".NET Launch Settings Profile.Tech_Hub: http" />
-      <item itemvalue=".NET Launch Settings Profile.Tech_Hub: https" />
-      <item itemvalue="Docker.Tech_Hub/Dockerfile" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -143,7 +123,6 @@
       <workItem from="1702732366037" duration="1346000" />
       <workItem from="1702740730095" duration="4324000" />
       <workItem from="1702753795360" duration="395000" />
-      <workItem from="1703014882443" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="added SignIn.cshtml and SignIn.cshtml.cs">
       <option name="closed" value="true" />
@@ -161,31 +140,7 @@
       <option name="project" value="LOCAL" />
       <updated>1702754077011</updated>
     </task>
-    <task id="LOCAL-00003" summary="added SignIn.cshtml.cs and  SignIn.cshtml pages">
-      <option name="closed" value="true" />
-      <created>1702757209635</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1702757209635</updated>
-    </task>
-    <task id="LOCAL-00004" summary="edited payment methods in checkout.cshtml">
-      <option name="closed" value="true" />
-      <created>1702761457005</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1702761457005</updated>
-    </task>
-    <task id="LOCAL-00005" summary="removed terms and conditions section">
-      <option name="closed" value="true" />
-      <created>1702761651176</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1702761651176</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,9 +151,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="added SignIn.cshtml and SignIn.cshtml.cs" />
-    <MESSAGE value="added SignIn.cshtml.cs and  SignIn.cshtml pages" />
-    <MESSAGE value="edited payment methods in checkout.cshtml" />
-    <MESSAGE value="removed terms and conditions section" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed terms and conditions section" />
+    <option name="LAST_COMMIT_MESSAGE" value="added SignIn.cshtml and SignIn.cshtml.cs" />
   </component>
 </project>
