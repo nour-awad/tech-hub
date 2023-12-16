@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Tech_Hub.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css1\\style.css",
+      "PackagePath": "staticwebassets\\css1\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css1\\style.css.map",
+      "PackagePath": "staticwebassets\\css1\\style.css.map"
+    },
+    {
       "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -31,6 +39,354 @@
     {
       "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css",
+      "PackagePath": "staticwebassets\\fonts1\\material-icon\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\fonts1\\material-icon\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff2"
     },
     {
       "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\FontAwesome.otf",
@@ -71,6 +427,14 @@
     {
       "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\images\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\images\\signin-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\images\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\images\\signup-image.jpg"
     },
     {
       "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\hotdeal.png",
@@ -127,6 +491,10 @@
     {
       "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\shop03.png",
       "PackagePath": "staticwebassets\\img\\shop03.png"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js1\\main.js",
+      "PackagePath": "staticwebassets\\js1\\main.js"
     },
     {
       "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js\\bootstrap.min.js",
@@ -379,6 +747,46 @@
     {
       "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\extend.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\fonts.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\global.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\global.scss"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\minxi.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\minxi.scss"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\variables.scss",
+      "PackagePath": "staticwebassets\\scss\\common\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\layouts\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\layouts\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\layouts\\responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\layouts\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Tech_Hub.Microsoft.AspNetCore.StaticWebAssets.props",
