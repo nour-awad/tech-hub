@@ -9,16 +9,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="added SignIn.cshtml.cs and  SignIn.cshtml pages" />
+    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="removed terms and conditions section">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tech_Hub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tech_Hub/wwwroot/images/signin-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/wwwroot/images/signin-image.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Pages/checkout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -58,6 +77,9 @@
     ]
   }
 }</component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Tech_Hub: http">
     <configuration name="Tech_Hub: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Tech_Hub/Tech_Hub.csproj" />
@@ -153,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702757209635</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="edited payment methods in checkout.cshtml">
+      <option name="closed" value="true" />
+      <created>1702761457005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702761457005</updated>
+    </task>
+    <task id="LOCAL-00005" summary="removed terms and conditions section">
+      <option name="closed" value="true" />
+      <created>1702761651176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702761651176</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +203,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="added SignIn.cshtml and SignIn.cshtml.cs" />
     <MESSAGE value="added SignIn.cshtml.cs and  SignIn.cshtml pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="added SignIn.cshtml.cs and  SignIn.cshtml pages" />
+    <MESSAGE value="edited payment methods in checkout.cshtml" />
+    <MESSAGE value="removed terms and conditions section" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed terms and conditions section" />
   </component>
 </project>
