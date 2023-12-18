@@ -315,6 +315,27 @@
 											<li><a href="#">4</a></li>
 											<li><a href="#"><i class="fa fa-angle-right"></i></a></li>
 										</ul>
+								
+										<div class="col-md-6">
+											<div id="reviews">
+												<ul class="reviews">
+													@foreach (var item in Model.Reviews)
+													{
+														<li>
+															<div class="review-heading">
+																<h5 class="name">@item.UserName</h5>
+																<p class="date"> @now </p>
+																
+															</div>
+															<div class="review-body">
+																<p>@item.comment</p>
+															</div>
+														</li>
+													}
+												</ul>
+											</div>
+										</div>
+
 									</div>
 								</div>
 								<!-- /Reviews -->
