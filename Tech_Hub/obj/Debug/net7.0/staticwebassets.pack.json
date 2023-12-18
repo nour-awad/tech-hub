@@ -1,795 +1,795 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tech_Hub.bundle.scp.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tech_Hub.bundle.scp.css",
       "PackagePath": "staticwebassets\\Tech_Hub.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css1\\style.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css1\\style.css",
       "PackagePath": "staticwebassets\\css1\\style.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css1\\style.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css1\\style.css.map",
       "PackagePath": "staticwebassets\\css1\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css2\\style.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css2\\style.css",
       "PackagePath": "staticwebassets\\css2\\style.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css\\nouislider.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\nouislider.min.css",
       "PackagePath": "staticwebassets\\css\\nouislider.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css\\slick-theme.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\slick-theme.css",
       "PackagePath": "staticwebassets\\css\\slick-theme.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css\\slick.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css",
       "PackagePath": "staticwebassets\\fonts1\\material-icon\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css.map",
       "PackagePath": "staticwebassets\\fonts1\\material-icon\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
       "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
       "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
       "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
       "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
       "PackagePath": "staticwebassets\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-300italic.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-500italic.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-600.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-700italic.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-800italic.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-900.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-italic.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\poppins-v5-latin-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.eot",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.svg",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.ttf",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff2",
       "PackagePath": "staticwebassets\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\slick.eot",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\fonts\\slick.eot"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\slick.svg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\fonts\\slick.svg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\slick.ttf",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\fonts\\slick.ttf"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\fonts\\slick.woff",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\fonts\\slick.woff"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\images\\signin-image.jpg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\images\\signin-image.jpg",
       "PackagePath": "staticwebassets\\images\\signin-image.jpg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\images\\signup-image.jpg",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\images\\signup-image.jpg",
       "PackagePath": "staticwebassets\\images\\signup-image.jpg"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\hotdeal.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\hotdeal.png",
       "PackagePath": "staticwebassets\\img\\hotdeal.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\logo.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product01.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product01.png",
       "PackagePath": "staticwebassets\\img\\product01.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product02.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product02.png",
       "PackagePath": "staticwebassets\\img\\product02.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product03.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product03.png",
       "PackagePath": "staticwebassets\\img\\product03.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product04.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product04.png",
       "PackagePath": "staticwebassets\\img\\product04.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product05.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product05.png",
       "PackagePath": "staticwebassets\\img\\product05.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product06.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product06.png",
       "PackagePath": "staticwebassets\\img\\product06.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product07.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product07.png",
       "PackagePath": "staticwebassets\\img\\product07.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product08.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product08.png",
       "PackagePath": "staticwebassets\\img\\product08.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\product09.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product09.png",
       "PackagePath": "staticwebassets\\img\\product09.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\shop01.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop01.png",
       "PackagePath": "staticwebassets\\img\\shop01.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\shop02.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop02.png",
       "PackagePath": "staticwebassets\\img\\shop02.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\img\\shop03.png",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop03.png",
       "PackagePath": "staticwebassets\\img\\shop03.png"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js1\\main.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js1\\main.js",
       "PackagePath": "staticwebassets\\js1\\main.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js\\jquery.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js\\jquery.zoom.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\jquery.zoom.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js\\nouislider.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\nouislider.min.js",
       "PackagePath": "staticwebassets\\js\\nouislider.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\js\\slick.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\extend.scss",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\extend.scss",
       "PackagePath": "staticwebassets\\scss\\common\\extend.scss"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\fonts.scss",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\fonts.scss",
       "PackagePath": "staticwebassets\\scss\\common\\fonts.scss"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\global.scss",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\global.scss",
       "PackagePath": "staticwebassets\\scss\\common\\global.scss"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\minxi.scss",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\minxi.scss",
       "PackagePath": "staticwebassets\\scss\\common\\minxi.scss"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\common\\variables.scss",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\variables.scss",
       "PackagePath": "staticwebassets\\scss\\common\\variables.scss"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\layouts\\main.scss",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\layouts\\main.scss",
       "PackagePath": "staticwebassets\\scss\\layouts\\main.scss"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\layouts\\responsive.scss",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\layouts\\responsive.scss",
       "PackagePath": "staticwebassets\\scss\\layouts\\responsive.scss"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\scss\\style.scss",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\style.scss",
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery-ui.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "Id": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
     },
     {

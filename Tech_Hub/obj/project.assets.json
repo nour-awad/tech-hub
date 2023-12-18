@@ -100,19 +100,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Blu-Ray\\.nuget\\packages\\": {}
+    "C:\\Users\\Kimos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\Tech_Hub.csproj",
+      "projectUniqueName": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
       "projectName": "Tech_Hub",
-      "projectPath": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\Tech_Hub.csproj",
-      "packagesPath": "C:\\Users\\Blu-Ray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Blu-Ray\\OneDrive\\Documents\\Zewail\\DB\\Project\\Tech_Hub\\Tech_Hub\\obj\\",
+      "projectPath": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
+      "packagesPath": "C:\\Users\\Kimos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Blu-Ray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kimos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
