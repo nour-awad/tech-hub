@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj": {}
+    "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj": {
+    "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
+        "projectUniqueName": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
         "projectName": "Tech_Hub",
-        "projectPath": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
-        "packagesPath": "C:\\Users\\Kimos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\",
+        "projectPath": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
+        "packagesPath": "C:\\Users\\AHMED\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kimos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AHMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

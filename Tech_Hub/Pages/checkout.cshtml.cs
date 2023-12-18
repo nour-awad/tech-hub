@@ -12,8 +12,9 @@ namespace Tech_Hub.Pages
 		{
 			DateTime Ordertime = DateTime.Now;
 
+
 			
-			return RedirectToPage("Faris's page with a constructer that passes the time");
+			return RedirectToPage("/TrachOrder");
 		}
 	}
 }
