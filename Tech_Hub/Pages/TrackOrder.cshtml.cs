@@ -5,8 +5,12 @@ namespace Tech_Hub.Pages
 {
     public class TrackOrderModel : PageModel
     {
-        public void OnGet()
-        {
-        }
+		public DateTime OrderTime { get; set; }
+
+		public void OnGet(DateTime orderTime)
+		{
+			OrderTime = orderTime;
+		}
+		
     }
 }
