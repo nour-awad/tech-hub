@@ -1,0 +1,733 @@
+Index: Tech_Hub/obj/rider.project.restore.info
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tech_Hub/obj/rider.project.restore.info b/Tech_Hub/obj/rider.project.restore.info
+new file mode 100644
+--- /dev/null	
++++ b/Tech_Hub/obj/rider.project.restore.info	
+@@ -0,0 +1,1 @@
++17030140903078442
+\ No newline at end of file
+Index: Tech_Hub/Pages/Cart.cshtml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tech_Hub/Pages/Cart.cshtml b/Tech_Hub/Pages/Cart.cshtml
+new file mode 100644
+--- /dev/null	
++++ b/Tech_Hub/Pages/Cart.cshtml	
+@@ -0,0 +1,377 @@
++@page
++@model IndexModel
++@{
++}
++<!DOCTYPE html>
++<html lang="en">
++<head>
++<meta charset="utf-8">
++
++
++<title>Shop cart</title>
++<meta name="viewport" content="width=device-width, initial-scale=1">
++<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet">
++<style type="text/css">
++    	body{margin-top:20px;}
++.cart-item-thumb {
++    display: block;
++    width: 10rem
++}
++
++.cart-item-thumb>img {
++    display: block;
++    width: 100%
++}
++
++.product-card-title>a {
++    color: #222;
++}
++
++.font-weight-semibold {
++    font-weight: 600 !important;
++}
++
++.product-card-title {
++    display: block;
++    margin-bottom: .75rem;
++    padding-bottom: .875rem;
++    border-bottom: 1px dashed #e2e2e2;
++    font-size: 1rem;
++    font-weight: normal;
++}
++
++.text-muted {
++    color: #bb2d3b !important;
++}
++
++.bg-secondary {
++    background-color: #f7f7f7 !important;
++}
++
++.accordion .accordion-heading {
++    margin-bottom: 0;
++    font-size: 1rem;
++    font-weight: bold;
++}
++.font-weight-semibold {
++    font-weight: 600 !important;
++}
++.btn-outline-danger {
++          display: inline-block;
++          padding: 6px 15px;
++          background-color: #D10024;
++          border: none;
++          border-radius: 40px;
++          color: #FFF;
++          text-transform: uppercase;
++          font-weight: 500;
++          text-align: center;
++          -webkit-transition: 0.2s all;
++          transition: 0.2s all;
++}
++#checkout-btn {
++          display: inline-block;
++          padding: 6px 15px;
++          background-color: #D10024;
++          border: none;
++          /*border-radius: 40px;*/
++          color: #FFF;
++          text-transform: uppercase;
++          font-weight: 500;
++          font-size: 15px;
++          text-align: center;
++          -webkit-transition: 0.2s all;
++          transition: 0.2s all;
++}
++.btn-outline-danger:hover,  .btn-outline-danger:focus{
++    /*background-color: #D10024;*/
++    /*color: white;*/
++    opacity: 0.9;
++    color: #FFF;
++}
++
++</style>
++</head>
++<body>
++<div class="container pb-5 mt-n2 mt-md-n3">
++<div class="row">
++<div class="col-xl-9 col-md-8">
++<h2 class="h6 d-flex flex-wrap justify-content-between align-items-center px-4 py-3 bg-secondary"><span>Products</span><a class="font-size-sm" asp-page="/Index"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-left" style="width: 1rem; height: 1rem; color: #bb2d3b;"><polyline points="15 18 9 12 15 6"></polyline></svg>Continue shopping</a></h2>
++
++<div class="d-sm-flex justify-content-between my-4 pb-4 border-bottom">
++<div class="media d-block d-sm-flex text-center text-sm-left">
++<a class="cart-item-thumb mx-auto mr-sm-4" href="#"><img src="https://www.bootdey.com/image/240x240/FF0000/000000" alt="Product"></a>
++<div class="media-body pt-3">
++<h3 class="product-card-title font-weight-semibold border-0 pb-0"><a href="#">Calvin Klein Jeans Keds</a></h3>
++<div class="font-size-sm"><span class="text-muted mr-2">Size:</span>8.5</div>
++<div class="font-size-sm"><span class="text-muted mr-2">Color:</span>Black</div>
++<div class="font-size-lg text-primary pt-2">$125.00</div>
++</div>
++</div>
++<div class="pt-2 pt-sm-0 pl-sm-3 mx-auto mx-sm-0 text-center text-sm-left" style="max-width: 10rem;">
++<div class="form-group mb-2">
++<label for="quantity1">Quantity</label>
++<input class="form-control form-control-sm" type="number" id="quantity1" value="1">
++</div>
++<button class="btn btn-outline-danger btn-sm btn-block mb-2" type="button">
++<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2 mr-1">
++<polyline points="3 6 5 6 21 6"></polyline>
++<path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
++<line x1="10" y1="11" x2="10" y2="17"></line>
++<line x1="14" y1="11" x2="14" y2="17"></line>
++</svg>Remove</button>
++</div>
++</div>
++
++<div class="d-sm-flex justify-content-between my-4 pb-4 border-bottom">
++<div class="media d-block d-sm-flex text-center text-sm-left">
++<a class="cart-item-thumb mx-auto mr-sm-4" href="#"><img src="https://www.bootdey.com/image/240x240/1E90FF/000000" alt="Product"></a>
++<div class="media-body pt-3">
++<h3 class="product-card-title font-weight-semibold border-0 pb-0"><a href="#">The North Face Hoodie</a></h3>
++<div class="font-size-sm"><span class="text-muted mr-2">Size:</span>XL</div>
++<div class="font-size-sm"><span class="text-muted mr-2">Color:</span>Gray</div>
++<div class="font-size-lg text-primary pt-2" style="color: #bb2d3b">$134.00</div>
++</div>
++</div>
++<div class="pt-2 pt-sm-0 pl-sm-3 mx-auto mx-sm-0 text-center text-sm-left" style="max-width: 10rem;">
++<div class="form-group mb-2">
++<label for="quantity2">Quantity</label>
++<input class="form-control form-control-sm" type="number" id="quantity2" value="1">
++</div>
++<button class="btn btn-outline-danger btn-sm btn-block mb-2" type="button">
++<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2 mr-1">
++<polyline points="3 6 5 6 21 6"></polyline>
++<path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
++<line x1="10" y1="11" x2="10" y2="17"></line>
++<line x1="14" y1="11" x2="14" y2="17"></line>
++</svg>Remove</button>
++</div>
++</div>
++
++<div class="d-sm-flex justify-content-between my-4 pb-4 border-bottom">
++<div class="media d-block d-sm-flex text-center text-sm-left">
++<a class="cart-item-thumb mx-auto mr-sm-4" href="#"><img src="https://www.bootdey.com/image/240x240/FF8C00/000000" alt="Product"></a>
++<div class="media-body pt-3">
++<h3 class="product-card-title font-weight-semibold border-0 pb-0"><a href="#">Medicine Chameleon Sunglasses</a></h3>
++<div class="font-size-sm"><span class="text-muted mr-2">Lenses:</span>Chameleon</div>
++<div class="font-size-sm"><span class="text-muted mr-2">Frame:</span>Gray / Black</div>
++<div class="font-size-lg text-primary pt-2" style="color: #bb2d3b">$47.00</div>
++</div>
++</div>
++<div class="pt-2 pt-sm-0 pl-sm-3 mx-auto mx-sm-0 text-center text-sm-left" style="max-width: 10rem;">
++<div class="form-group mb-2">
++<label for="quantity3">Quantity</label>
++<input class="form-control form-control-sm" type="number" id="quantity3" value="1">
++</div>
++<button class="btn btn-outline-danger btn-sm btn-block mb-2" type="button">
++<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2 mr-1">
++<polyline points="3 6 5 6 21 6"></polyline>
++<path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
++<line x1="10" y1="11" x2="10" y2="17"></line>
++<line x1="14" y1="11" x2="14" y2="17"></line>
++</svg>Remove</button>
++</div>
++</div>
++
++<div class="d-sm-flex justify-content-between my-4">
++<div class="media d-block d-sm-flex text-center text-sm-left">
++<a class="cart-item-thumb mx-auto mr-sm-4" href="#"><img src="https://www.bootdey.com/image/240x240/eeeeee/000000" alt="Product"></a>
++<div class="media-body pt-3">
++<h3 class="product-card-title font-weight-semibold border-0 pb-0"><a href="#">Adidas Performance Hat</a></h3>
++<div class="font-size-sm"><span class="text-muted mr-2">Material:</span>Acrylic</div>
++<div class="font-size-sm"><span class="text-muted mr-2">Color:</span>Pink / Dark green</div>
++<div class="font-size-lg text-primary pt-2" style="color: #bb2d3b">$19.00</div>
++</div>
++</div>
++<div class="pt-2 pt-sm-0 pl-sm-3 mx-auto mx-sm-0 text-center text-sm-left" style="max-width: 10rem;">
++<div class="form-group mb-2">
++<label for="quantity4">Quantity</label>
++<input class="form-control form-control-sm" type="number" id="quantity4" value="1">
++</div>
++<button class="btn btn-outline-danger btn-sm btn-block mb-2" type="button">
++<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2 mr-1">
++<polyline points="3 6 5 6 21 6"></polyline>
++<path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
++<line x1="10" y1="11" x2="10" y2="17"></line>
++<line x1="14" y1="11" x2="14" y2="17"></line>
++</svg>Remove</button>
++</div>
++</div>
++</div>
++
++<div class="col-xl-3 col-md-4 pt-3 pt-md-0">
++<h2 class="h6 px-4 py-3 bg-secondary text-center">Subtotal</h2>
++<div class="h3 font-weight-semibold text-center py-3" style="color: #bb2d3b">$325.00</div>
++<hr>
++<h3 class="h6 pt-4 font-weight-semibold"><span class="badge badge-success mr-2">Note</span>Additional comments</h3>
++<textarea class="form-control mb-3" id="order-comments" rows="5"></textarea>
++<a class="btn btn-outline-danger btn-block" id="checkout-btn" asp-page="/checkout">
++    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"  viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-credit-card mr-2">
++        <rect x="1" y="4" width="22" height="16" rx="2" ry="2"></rect>
++        <line x1="1" y1="10" x2="23" y2="10"></line>
++    </svg>Proceed to Checkout</a>
++
++<div class="pt-4">
++<div class="accordion" id="cart-accordion">
++<div class="card">
++<div class="card-header">
++<h3 class="accordion-heading font-weight-semibold"><a href="#promocode" role="button" data-toggle="collapse" aria-expanded="true" aria-controls="promocode" style="color: #bb2d3b">Apply promo code<span class="accordion-indicator"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></span></a></h3>
++</div>
++<div class="collapse show" id="promocode" data-parent="#cart-accordion">
++<div class="card-body">
++<form class="needs-validation" novalidate>
++<div class="form-group">
++<input class="form-control" type="text" id="cart-promocode" placeholder="Promo code" required>
++<div class="invalid-feedback">Please provide a valid promo code!</div>
++</div>
++<button class="btn btn-outline-danger btn-block" type="submit" >Apply promo code</button>
++</form>
++</div>
++</div>
++</div>
++<div class="card">
++<div class="card-header">
++<h3 class="accordion-heading font-weight-semibold"><a class="collapsed" href="#shipping" role="button" data-toggle="collapse" aria-expanded="true" aria-controls="shipping" style="color: #bb2d3b">Shipping estimates<span class="accordion-indicator"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></span></a></h3>
++</div>
++<div class="collapse" id="shipping" data-parent="#cart-accordion">
++<div class="card-body">
++<form class="needs-validation" novalidate>
++<<div class="form-group">
++     <select id="country" class="form-control custom-select" required onchange="updateCities()">
++         <option value="Country">Country</option>
++         <option value="Egypt">Egypt</option>
++         <option value="UAE">UAE</option>
++     </select>
++     <div class="invalid-feedback">Country</div>
++ </div>
++ 
++ <div class="form-group">
++     <select id="city" class="form-control custom-select" required>
++         <option value="City">City</option>
++         <!-- Cities will be dynamically added based on the selected country -->
++     </select>
++     <div class="invalid-feedback">Please choose your city!</div>
++ </div>
++ 
++ <script>
++     function updateCities() {
++         var countrySelect = document.getElementById("country");
++         var citySelect = document.getElementById("city");
++ 
++         // Clear existing options
++         citySelect.innerHTML = '<option value="City">Choose your city</option>';
++ 
++         // Add new options based on the selected country
++         if (countrySelect.value === "Egypt") {
++             var cities = ["Alexandria", "Cairo", "Damietta", "Giza", "Helwan"];
++         } else if (countrySelect.value === "UAE") {
++             var cities = ["Abu Dhabi", "Dubai", "
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++", "Ajman", "Umm Al Quwain", "Ras Al Khaimah", "Fujairah"];
++         } 
++         
++ 
++         // Populate the city dropdown
++         for (var i = 0; i < cities.length; i++) {
++             var option = document.createElement("option");
++             option.value = cities[i];
++             option.text = cities[i];
++             citySelect.add(option);
++         }
++     }
++ </script>
++
++<button class="btn btn-outline-danger btn-block" type="submit">Calculate shipping</button>
++</form>
++</div>
++</div>
++</div>
++</div>
++</div>
++</div>
++</div>
++</div>
++<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
++<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"></script>
++<script type="text/javascript"></script>
++</body>
++</html>
+\ No newline at end of file
+Index: Tech_Hub/Pages/TrackOrder.cshtml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tech_Hub/Pages/TrackOrder.cshtml b/Tech_Hub/Pages/TrackOrder.cshtml
+new file mode 100644
+--- /dev/null	
++++ b/Tech_Hub/Pages/TrackOrder.cshtml	
+@@ -0,0 +1,53 @@
++@page
++@model Tech_Hub.Pages.TrackOrder
++@{
++    Layout = "_Layout2";
++}
++<!DOCTYPE html>
++<html lang="en">
++<head>
++<link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet">
++<link href="~/css2/style.css" rel="stylesheet">
++</head>
++
++
++    <div class="container pb-5 mb-sm-4">
++
++    <div class="row mb-3">
++    <div class="col-sm-4 mb-2">
++    <div class="bg-secondary p-4 text-dark text-center"><span class="font-weight-semibold mr-2">Shipped via:</span>UPS Ground</div>
++    </div>
++    <div class="col-sm-4 mb-2">
++    <div class="bg-secondary p-4 text-dark text-center"><span class="font-weight-semibold mr-2">Status:</span>Quality check</div>
++    </div>
++    <div class="col-sm-4 mb-2">
++    <div class="bg-secondary p-4 text-dark text-center"><span class="font-weight-semibold mr-2">Expected date:</span>27 Dec 2023</div>
++    </div>
++    </div>
++
++    <div class="steps">
++    <div class="steps-header">
++    <div class="progress">
++    <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
++    </div>
++    </div>
++    <div class="steps-body">
++    <div class="step step-completed"><span class="step-indicator"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check"><polyline points="20 6 9 17 4 12"></polyline></svg></span><span class="step-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg></span>Order confirmed</div>
++    <div class="step step-completed"><span class="step-indicator"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check"><polyline points="20 6 9 17 4 12"></polyline></svg></span><span class="step-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-settings"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg></span>Processing order</div>
++    <div class="step step-active"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg><br>Shipped</div>
++    <div class="step"><span class="step-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-truck"><rect x="1" y="3" width="15" height="13"></rect><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></svg></span>On The Way</div>
++    <div class="step"><span class="step-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg></span>Product delivered</div>
++    </div>
++    </div>
++
++    <div class="d-sm-flex flex-wrap justify-content-between align-items-center text-center pt-4">
++
++    <a class="primary-btn" asp-page="/Index" data-toggle="modal">Continue Shopping</a>
++    </div>
++    </div>
++    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
++    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"></script>
++    <script type="text/javascript">
++	
++    </script>
++</html>
+\ No newline at end of file
+Index: Tech_Hub/Pages/Cart.cshtml.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tech_Hub/Pages/Cart.cshtml.cs b/Tech_Hub/Pages/Cart.cshtml.cs
+new file mode 100644
+--- /dev/null	
++++ b/Tech_Hub/Pages/Cart.cshtml.cs	
+@@ -0,0 +1,11 @@
++using Microsoft.AspNetCore.Mvc.RazorPages;
++
++namespace Tech_Hub.Pages;
++
++public class Cart : PageModel
++{
++    public void OnGet()
++    {
++        
++    }
++}
+\ No newline at end of file
+Index: Tech_Hub/Pages/TrackOrder.cshtml.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tech_Hub/Pages/TrackOrder.cshtml.cs b/Tech_Hub/Pages/TrackOrder.cshtml.cs
+new file mode 100644
+--- /dev/null	
++++ b/Tech_Hub/Pages/TrackOrder.cshtml.cs	
+@@ -0,0 +1,11 @@
++using Microsoft.AspNetCore.Mvc.RazorPages;
++
++namespace Tech_Hub.Pages;
++
++public class TrackOrder : PageModel
++{
++    public void OnGet()
++    {
++        
++    }
++}
+\ No newline at end of file
+Index: Tech_Hub/Pages/UserAccount.cshtml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tech_Hub/Pages/UserAccount.cshtml b/Tech_Hub/Pages/UserAccount.cshtml
+new file mode 100644
+--- /dev/null	
++++ b/Tech_Hub/Pages/UserAccount.cshtml	
+@@ -0,0 +1,158 @@
++@page
++@model Tech_Hub.Pages.UserAccount
++
++@{
++    Layout = "_Layout2";
++}
++<head>
++    <style type="text/css">
++        body {
++            margin-top: 20px;
++            color: #1a202c;
++            text-align: left;
++            background-color: #e2e8f0;
++        }
++
++        .main-body {
++            padding: 15px;
++        }
++
++        .card {
++            box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
++        }
++
++        .card {
++            position: relative;
++            display: flex;
++            flex-direction: column;
++            min-width: 0;
++            word-wrap: break-word;
++            background-color: #fff;
++            background-clip: border-box;
++            border: 0 solid rgba(0,0,0,.125);
++            border-radius: .25rem;
++        }
++
++        .card-body {
++            flex: 1 1 auto;
++            min-height: 1px;
++            padding: 1rem;
++        }
++
++        .gutters-sm {
++            margin-right: -8px;
++            margin-left: -8px;
++        }
++
++            .gutters-sm > .col, .gutters-sm > [class*=col-] {
++                padding-right: 8px;
++                padding-left: 8px;
++            }
++
++        .mb-3, .my-3 {
++            margin-bottom: 1rem !important;
++        }
++
++        .bg-gray-300 {
++            background-color: #e2e8f0;
++        }
++
++        .h-100 {
++            height: 100% !important;
++        }
++
++        .shadow-none {
++            box-shadow: none !important;
++        }
++
++        .primary-btn {
++            background-color: #D10024;
++            color: #FFF;
++            border-radius:5px;
++            padding:7px 20px;
++            text-transform: uppercase;
++            font-weight: 700;
++            text-align: center;
++            -webkit-transition: 0.2s all;
++            transition: 0.2s all;
++        }
++
++        .primary-btn:hover, .primary-btn:focus {
++            opacity: 0.9;
++            color: #FFF;
++        }
++
++    </style>
++</head>
++    <div class="container">
++        <div class="main-body">
++
++            <nav aria-label="breadcrumb" class="main-breadcrumb">
++                <ol class="breadcrumb">
++                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
++                    <li class="breadcrumb-item active" aria-current="page">My Account</li>
++                </ol>
++            </nav>
++
++            <div class="row gutters-sm">
++                <div class="col-md-4 mb-3">
++                </div>
++            </div>
++            <div class="col-md-8">
++                <div class="card mb-3">
++                    <div class="card-body">
++                        <div class="row">
++                            <div class="col-sm-3">
++                                <h6 class="mb-0">Full Name</h6>
++                            </div>
++                            <div class="col-sm-9 text-secondary">
++                                Kenneth Valdez
++                            </div>
++                        </div>
++                        <hr>
++                        <div class="row">
++                            <div class="col-sm-3">
++                                <h6 class="mb-0">Email</h6>
++                            </div>
++                            <div class="col-sm-9 text-secondary">
++                                <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3a5c534a7a504f51574f52145b56">example@gmail.com</a>
++                            </div>
++                        </div>
++                        <hr>
++                        <div class="row">
++                            <div class="col-sm-3">
++                                <h6 class="mb-0">Phone</h6>
++                            </div>
++                            <div class="col-sm-9 text-secondary">
++                                (239) 816-9029
++                            </div>
++                        </div>
++                        <hr>
++                        <div class="row">
++                            <div class="col-sm-3">
++                                <h6 class="mb-0">Mobile</h6>
++                            </div>
++                            <div class="col-sm-9 text-secondary">
++                                (320) 380-4539
++                            </div>
++                        </div>
++                        <hr>
++                        <div class="row">
++                            <div class="col-sm-3">
++                                <h6 class="mb-0">Address</h6>
++                            </div>
++                            <div class="col-sm-9 text-secondary">
++                                Bay Area, San Francisco, CA
++                            </div>
++                        </div>
++                        <hr>
++                        <div class="row">
++                            <div class="col-sm-12">
++                                <a class="primary-btn" asp-page="/EditPage">Edit</a>
++                            </div>
++                        </div>
++                    </div>
++                </div>
++            </div>
++        </div>
++    </div>
+\ No newline at end of file
+Index: Tech_Hub/Pages/UserAccount.cshtml.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tech_Hub/Pages/UserAccount.cshtml.cs b/Tech_Hub/Pages/UserAccount.cshtml.cs
+new file mode 100644
+--- /dev/null	
++++ b/Tech_Hub/Pages/UserAccount.cshtml.cs	
+@@ -0,0 +1,11 @@
++using Microsoft.AspNetCore.Mvc.RazorPages;
++
++namespace Tech_Hub.Pages;
++
++public class UserAccount : PageModel
++{
++    public void OnGet()
++    {
++        
++    }
++}
+\ No newline at end of file
+diff --git a/Tech_Hub/.vs/Tech_Hub/FileContentIndex/f2ea83f0-12c4-4cd6-9017-1534b2ea223c.vsidx b/Tech_Hub/.vs/Tech_Hub/FileContentIndex/f2ea83f0-12c4-4cd6-9017-1534b2ea223c.vsidx
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/FileContentIndex/e823b03d-cc73-4986-a50f-d4416cde46fb.vsidx b/Tech_Hub/.vs/Tech_Hub/FileContentIndex/e823b03d-cc73-4986-a50f-d4416cde46fb.vsidx
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/FileContentIndex/be29ca73-bf07-450c-b72b-76c4768fcc6f.vsidx b/Tech_Hub/.vs/Tech_Hub/FileContentIndex/be29ca73-bf07-450c-b72b-76c4768fcc6f.vsidx
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/FileContentIndex/97752383-1f22-4b87-bc53-d046de76ff9f.vsidx b/Tech_Hub/.vs/Tech_Hub/FileContentIndex/97752383-1f22-4b87-bc53-d046de76ff9f.vsidx
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/FileContentIndex/607832c2-39c3-45b9-bed4-c855f7398c2d.vsidx b/Tech_Hub/.vs/Tech_Hub/FileContentIndex/607832c2-39c3-45b9-bed4-c855f7398c2d.vsidx
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/FileContentIndex/read.lock b/Tech_Hub/.vs/Tech_Hub/FileContentIndex/read.lock
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/DesignTimeBuild/.dtbcache.v2 b/Tech_Hub/.vs/Tech_Hub/DesignTimeBuild/.dtbcache.v2
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/config/applicationhost.config b/Tech_Hub/.vs/Tech_Hub/config/applicationhost.config
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/v17/.futdcache.v2 b/Tech_Hub/.vs/Tech_Hub/v17/.futdcache.v2
+new file mode 100644
+diff --git a/Tech_Hub/.vs/Tech_Hub/v17/.suo b/Tech_Hub/.vs/Tech_Hub/v17/.suo
+new file mode 100644
+diff --git a/Tech_Hub/wwwroot/css2/style.css b/Tech_Hub/wwwroot/css2/style.css
+new file mode 100644
+diff --git a/Tech_Hub/Pages/EditPage.cshtml b/Tech_Hub/Pages/EditPage.cshtml
+new file mode 100644
+diff --git a/Tech_Hub/Pages/EditPage.cshtml.cs b/Tech_Hub/Pages/EditPage.cshtml.cs
+new file mode 100644
+diff --git a/Tech_Hub/Pages/Review.cs b/Tech_Hub/Pages/Review.cs
+new file mode 100644
+diff --git a/Tech_Hub/Pages/Shared/_Layout2.cshtml b/Tech_Hub/Pages/Shared/_Layout2.cshtml
+new file mode 100644
+diff --git a/Tech_Hub/.vs/ProjectEvaluation/tech_hub.projects.v5.2 b/Tech_Hub/.vs/ProjectEvaluation/tech_hub.projects.v5.2
+new file mode 100644
+diff --git a/Tech_Hub/.vs/ProjectEvaluation/tech_hub.metadata.v5.2 b/Tech_Hub/.vs/ProjectEvaluation/tech_hub.metadata.v5.2
+new file mode 100644
