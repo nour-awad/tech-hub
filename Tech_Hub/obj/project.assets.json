@@ -100,11 +100,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Kimos\\.nuget\\packages\\": {}
+=======
+    "/Users/nourmeyy/.nuget/packages/": {}
+>>>>>>> 3c6535cab42d0418697fae520fbebc7bb76ea5ea
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
       "projectName": "Tech_Hub",
       "projectPath": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
@@ -114,12 +119,23 @@
       "configFilePaths": [
         "C:\\Users\\Kimos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+      "projectUniqueName": "/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Tech_Hub.csproj",
+      "projectName": "Tech_Hub",
+      "projectPath": "/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Tech_Hub.csproj",
+      "packagesPath": "/Users/nourmeyy/.nuget/packages/",
+      "outputPath": "/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nourmeyy/.nuget/NuGet/NuGet.Config"
+>>>>>>> 3c6535cab42d0418697fae520fbebc7bb76ea5ea
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.309/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -162,7 +178,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+>>>>>>> 3c6535cab42d0418697fae520fbebc7bb76ea5ea
       }
     }
   }

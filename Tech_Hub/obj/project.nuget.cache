@@ -1,10 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "bsGs3AtXFVHlg5v+EXSIX76XBLFcu2kelLK5hz0Uv/Pba0ZzUUbTPStgednFqLK07oJEeKkXhqhZkd5Wl1alFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\Tech_Hub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kimos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+=======
+  "dgSpecHash": "w9ZnNsuSQ1Cm9+iQtmClqW61uuZXSstORjsUE3stVswlIxLQujT0FbYPEoWGLT+M83+VNmiNbFX8SSt9FTLTFg==",
+  "success": true,
+  "projectFilePath": "/Users/nourmeyy/Downloads/tech-hub-front-end/Tech_Hub/Tech_Hub.csproj",
+  "expectedPackageFiles": [
+    "/Users/nourmeyy/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.17.2/microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+>>>>>>> 3c6535cab42d0418697fae520fbebc7bb76ea5ea
   ],
   "logs": []
 }
