@@ -9,40 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="removed terms and conditions section">
-      <change afterPath="$PROJECT_DIR$/.vs/Tech_Hub/FileContentIndex/00c9f304-0411-4ab7-9f8d-2aa4486a52c2.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Tech_Hub/FileContentIndex/58cc6fb6-177f-4a24-ad88-7936568568fb.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Tech_Hub/FileContentIndex/9853dade-8f0e-4071-a713-50b1430f02eb.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/Tech_Hub/FileContentIndex/b18f37f0-7cc5-425a-bb82-ee908c91b74f.vsidx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Hub/Pages/EditPage.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tech_Hub/Pages/EditPage.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Tech_Hub/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Tech_Hub/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/Pages/Cart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/Pages/Cart.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/bin/Debug/net7.0/Tech_Hub.staticwebassets.runtime.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/Tech_Hub.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/ref/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/ref/Tech_Hub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/refint/Tech_Hub.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/refint/Tech_Hub.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.build.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets.pack.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Tech_Hub.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Tech_Hub.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Tech_Hub.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Tech_Hub.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/Tech_Hub.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tech_Hub/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tech_Hub/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="cc9632b4-1860-48a6-b653-b44107a38ae5" name="Changes" comment="removed terms and conditions section" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +143,7 @@
       <workItem from="1702732366037" duration="1346000" />
       <workItem from="1702740730095" duration="4324000" />
       <workItem from="1702753795360" duration="395000" />
-      <workItem from="1703014882443" duration="326000" />
+      <workItem from="1703014882443" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="added SignIn.cshtml and SignIn.cshtml.cs">
       <option name="closed" value="true" />
