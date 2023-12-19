@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m4X1SP5a4DtMbAOnXkLIIWP5shFVjz+rtPz1EBuJmLU=",
+  "Hash": "73T0REG0MdeBCD0RjEcKz81uqMrgo+AqcbDwES6brco=",
   "Source": "Tech_Hub",
   "BasePath": "_content/Tech_Hub",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Tech_Hub\\wwwroot",
       "Source": "Tech_Hub",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Tech_Hub.styles.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Tech_Hub.styles.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "Tech_Hub.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Tech_Hub.styles.css"
+      "OriginalItemSpec": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Tech_Hub.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tech_Hub.bundle.scp.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tech_Hub.bundle.scp.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "Tech_Hub.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tech_Hub.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tech_Hub.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\nouislider.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\nouislider.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css/nouislider.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nouislider.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\slick.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\slick.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css/slick.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\slick-theme.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\slick-theme.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css/slick-theme.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick-theme.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css\\style.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css1\\style.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css1\\style.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css1/style.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css1\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css1\\style.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css1\\style.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css1/style.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css1\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css2\\style.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\css2\\style.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "css2/style.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css2\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\favicon.ico",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/slick.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/slick.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/slick.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts\\slick.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts/slick.woff",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/material-icon/css/style.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\material-icon\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\css\\style.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/material-icon/css/style.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\material-icon\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/material-icon/fonts/Material-Design-Iconic-Font.eot",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/material-icon/fonts/Material-Design-Iconic-Font.svg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/material-icon/fonts/Material-Design-Iconic-Font.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/material-icon/fonts/Material-Design-Iconic-Font.woff",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/material-icon/fonts/Material-Design-Iconic-Font.woff2",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300.eot",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300.svg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300.ttf",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300.woff",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300.woff2",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300italic.eot",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300italic.svg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300italic.ttf",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300italic.woff",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-300italic.woff2",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-300italic.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500.eot",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500.svg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500.ttf",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500.woff",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500.woff2",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500italic.eot",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500italic.svg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500italic.ttf",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500italic.woff",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-500italic.woff2",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-500italic.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-600.eot",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-600.svg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-600.ttf",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-600.woff",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-600.woff2",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-600.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700.eot",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700.svg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700.ttf",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700.woff",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700.woff2",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700italic.eot",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700italic.svg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700italic.ttf",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700italic.woff",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-700italic.woff2",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-700italic.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800.eot",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800.svg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800.ttf",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800.woff",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800.woff2",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800italic.eot",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800italic.svg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800italic.ttf",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800italic.woff",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-800italic.woff2",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-800italic.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-900.eot",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-900.svg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-900.ttf",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-900.woff",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-900.woff2",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-italic.eot",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-italic.svg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-italic.ttf",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-italic.woff",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-italic.woff2",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-italic.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-regular.eot",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-regular.svg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-regular.ttf",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-regular.woff",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/poppins-v5-latin-regular.woff2",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\poppins-v5-latin-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700.eot",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700.svg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700.ttf",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700.woff",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700.woff2",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700italic.eot",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700italic.svg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700italic.ttf",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700italic.woff",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-700italic.woff2",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-italic.eot",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-italic.svg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-italic.ttf",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-italic.woff",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-italic.woff2",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-italic.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.eot",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-regular.eot",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.svg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-regular.svg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.ttf",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-regular.ttf",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-regular.woff",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff2",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "fonts1/poppins/roboto-condensed-v16-latin-regular.woff2",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\fonts1\\poppins\\roboto-condensed-v16-latin-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\images\\signin-image.jpg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\images\\signin-image.jpg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "images/signin-image.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\images\\signin-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\images\\signup-image.jpg",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\images\\signup-image.jpg",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "images/signup-image.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\images\\signup-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\hotdeal.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\hotdeal.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/hotdeal.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hotdeal.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\logo.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product01.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product01.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product01.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product01.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product02.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product02.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product02.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product02.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product03.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product03.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product03.png",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product03.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product04.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product04.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product04.png",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product04.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product05.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product05.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product05.png",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product05.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product06.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product06.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product06.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product06.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product07.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product07.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product07.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product07.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product08.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product08.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product08.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product08.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product09.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\product09.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/product09.png",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\img\\product09.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop01.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop01.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/shop01.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop01.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop02.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop02.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/shop02.png",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop02.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop03.png",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\img\\shop03.png",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "img/shop03.png",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\img\\shop03.png"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\jquery.zoom.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\jquery.zoom.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "js/jquery.zoom.min.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.zoom.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\main.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\nouislider.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\nouislider.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "js/nouislider.min.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\js\\nouislider.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\slick.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js\\slick.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "js/slick.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slick.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js1\\main.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\js1\\main.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "js1/main.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\js1\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\extend.scss",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\extend.scss",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "scss/common/extend.scss",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\common\\extend.scss"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\fonts.scss",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\fonts.scss",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "scss/common/fonts.scss",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\common\\fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\global.scss",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\global.scss",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "scss/common/global.scss",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\common\\global.scss"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\minxi.scss",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\minxi.scss",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "scss/common/minxi.scss",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\common\\minxi.scss"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\variables.scss",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\common\\variables.scss",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "scss/common/variables.scss",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\common\\variables.scss"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\layouts\\main.scss",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\layouts\\main.scss",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "scss/layouts/main.scss",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\layouts\\main.scss"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\layouts\\responsive.scss",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\layouts\\responsive.scss",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "scss/layouts/responsive.scss",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\layouts\\responsive.scss"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\style.scss",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\scss\\style.scss",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "scss/style.scss",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "vendor/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\vendor\\jquery\\jquery-ui.min.js",
       "SourceId": "Tech_Hub",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Kimos\\OneDrive\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AHMED\\Documents\\GitHub\\tech-hub\\Tech_Hub\\wwwroot\\",
       "BasePath": "_content/Tech_Hub",
       "RelativePath": "vendor/jquery/jquery-ui.min.js",
       "AssetKind": "All",
