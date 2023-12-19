@@ -37,7 +37,7 @@ namespace Tech_Hub.Pages
             avg_rating = CalculateAverage(reviews, r => r.Rating);
         }
 
-        public void OnGet(Review newReview)
+        public void OnGet(string namme,string emaiil,string revieew,int ratingg)
         {
             reviews.Add(new Review
             {
@@ -47,7 +47,14 @@ namespace Tech_Hub.Pages
                 Rating = 5
             });
 
-            reviews.Add(newReview);
+            
+            reviews.Add(new Review
+            {
+                UserName = namme,
+                Email = emaiil,
+                Comment = revieew,
+                Rating = ratingg
+            });
 
             ReviewsCount = CountElements(reviews);
             avg_rating = CalculateAverage(reviews,r => r.Rating);
@@ -61,14 +68,13 @@ namespace Tech_Hub.Pages
 
         public IActionResult OnPostSubmitReview()
         {
-            Review newReview = new Review
+            reviews.Add(new Review
             {
                 UserName = namme,
                 Email = emaiil,
                 Comment = revieew,
                 Rating = ratingg
-            };
-            reviews.Add(newReview);
+            });
 
             ReviewsCount = CountElements(reviews);
 
