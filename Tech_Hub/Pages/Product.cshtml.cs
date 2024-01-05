@@ -6,10 +6,20 @@ namespace Tech_Hub.Pages
 {
     public class ProductModel : PageModel
     {
+
+        DatabaseOperations Operation = new DatabaseOperations();
+
+
+        public ProductModel()
+        {
+			ReviewsCount = CountElements(reviews);
+			avg_rating = CalculateAverage(reviews, r => r.Rating);
+		}
+        
+
         private List<Review> reviews = new List<Review>();
 
-        // Property to expose reviews to the Razor Page
-        public IEnumerable<Review> Reviews => reviews;
+        public IEnumerable<Review> Reviews => reviews; // make the page reads review
 
         StarCalculator starCalculator = new StarCalculator();
 
@@ -31,14 +41,41 @@ namespace Tech_Hub.Pages
         [BindProperty]
         public int ratingg { get; set; }
 
-        public ProductModel()
-        {
-            ReviewsCount = CountElements(reviews);
-            avg_rating = CalculateAverage(reviews, r => r.Rating);
-        }
 
-        public void OnGet(string namme,string emaiil,string revieew,int ratingg)
+
+
+        [BindProperty(SupportsGet = true)]
+        public string productName { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public string productOldPrice { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public string productNewPrice { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public string productCategory { get; set; }
+
+
+
+        int review_id = 32;
+        int product_id = 30;
+
+
+        public void OnGet(string ProductName,string category,string oldprice,string newprice,string namme,string emaiil,string revieew,int ratingg)
         {
+
+            productName = ProductName;
+            productCategory = category; 
+            productOldPrice = oldprice; 
+            productNewPrice = newprice;
+
+
+            DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", review_id + 1, 5, DateTime.Now, revieew, 1, product_id);
+            review_id++;
+
+
+
             reviews.Add(new Review
             {
                 UserName = "karim",
@@ -68,6 +105,7 @@ namespace Tech_Hub.Pages
 
         public IActionResult OnPostSubmitReview()
         {
+
             reviews.Add(new Review
             {
                 UserName = namme,
@@ -85,8 +123,11 @@ namespace Tech_Hub.Pages
             star3Count = starCalculator.CalculateStar3(reviews);
             star4Count = starCalculator.CalculateStar4(reviews);
             star5Count = starCalculator.CalculateStar5(reviews);
+
+           
             
             return RedirectToPage();
+            
         }
 
         private static int CountElements<T>(List<T> list)

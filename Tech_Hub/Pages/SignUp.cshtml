@@ -14,20 +14,28 @@
                         <h2 class="form-title">Sign up</h2>
                         <form method="POST" class="register-form" id="register-form">
                             <div class="form-group">
-                                <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
-                                <input type="text" name="name" id="name" placeholder="Name" />
+                                <label for="firstname"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                                <input type="text" name="firstname" id="firstname" placeholder="First Name" asp-for="@Model.first_Name" />
+                            </div>
+                            <div class="form-group">
+                                <label for="secoundname"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                                <input type="text" name="secoundname" id="secoundname" placeholder="Secound Name" asp-for="@Model.secound_Name" />
                             </div>
                             <div class="form-group">
                                 <label for="email"><i class="zmdi zmdi-email"></i></label>
-                                <input type="email" name="email" id="email" placeholder="Email" />
+                                <input type="email" name="email" id="email" placeholder="Email" asp-for="@Model.user_Email" />
                             </div>
                             <div class="form-group">
                                 <label for="pass"><i class="zmdi zmdi-lock"></i></label>
-                                <input type="password" name="pass" id="pass" placeholder="Password" />
+                                <input type="password" name="pass" id="pass" placeholder="Password" asp-for="@Model.user_Password"/>
                             </div>
                             <div class="form-group">
                                 <label for="re-pass"><i class="zmdi zmdi-lock-outline"></i></label>
-                                <input type="password" name="re_pass" id="re_pass" placeholder="Repeat your password" />
+                                <input type="password" name="re_pass" id="re_pass" placeholder="Repeat your password" asp-for="@Model.user_RePassword"/>
+                            </div>
+                            <div class="form-group">
+                                <label for="phonenumber"><i class="zmdi zmdi-lock-outline"></i></label>
+                                <input type="password" name="phonenumber" id="phonenumber" placeholder="Phone Number" asp-for="@Model.user_PhoneNumber" />
                             </div>
                         <div class="form-group form-button">
                             <input type="submit" name="signup" id="signup" class="form-submit" value="Register" />
