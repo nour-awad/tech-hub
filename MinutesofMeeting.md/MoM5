@@ -1,0 +1,67 @@
+Meeting Minutes
+
+Date: 04 Jan 2024
+Time: 19:00
+Location: Online Meeting
+
+Attendees:
+- Ahmed
+- Karim
+- Faris
+- Nour
+
+Agenda:
+- Linking the database
+- Working on deployment
+- Selenium testing
+- Note: No meeting on December 28 2023 due to team unavailability
+
+Minutes:
+
+1. Introduction:
+   - The meeting was called to order at 19:10 with Ahmed, Karim, Faris, and Nour in attendance.
+
+2. Linking Database:
+   - The team discussed the process of linking the database to the application.
+   - Ahmed provided an update on the progress made in creating the database and linking it to the backend.
+
+3. Working on Deployment:
+   - Deployment strategies were discussed, considering the environment and server requirements.
+   - Faris shared insights into the deployment plan and tasks assigned to team members for a seamless deployment process.
+
+4. Selenium Testing:
+   - The team agreed on using Selenium for automated testing to ensure the functionality of key features.
+   - Karim will lead the Selenium testing effort, addressing critical scenarios and ensuring comprehensive test coverage.
+
+5. Note: No Meeting on December 28:
+   - A note was added that the team did not meet on December 28 2023 due to unavailability. No specific agenda items were discussed on that date.
+
+6. Note: Last Meeting Before Project Submission:
+   - It was highlighted that this is the last meeting before the project submission on January 10, 2024.
+   - Team members were reminded of the importance of completing assigned tasks and ensuring all aspects of the project are thoroughly reviewed.
+
+7. Collaboration and Communication:
+   - Team members emphasized the importance of collaboration and communication during the database linking, deployment, and testing phases.
+   - The need for clear documentation and reporting of any challenges or blockers was reiterated.
+
+8. Timeline for Completion:
+   - A timeline was discussed for completing the database linking, deployment, and Selenium testing phases.
+   - Deadlines were set to ensure that these tasks are successfully completed within the project timeline.
+
+9. Next Steps:
+   - Karim: Link the database to the application.
+   - Nour: Oversee the deployment process.
+   - Ahmed and Faris: Lead Selenium testing efforts and report any issues promptly.
+   - All team members: Stay vigilant on the established timeline and communicate effectively.
+
+10. Closure:
+    - The meeting was adjourned at 20:35, acknowledging the dedication of the team and wishing everyone success in the final phase of the project.
+
+Action Items:
+- Karim: Link the database to the application.
+- Nour: Oversee the deployment process.
+- Ahmed and Faris: Lead Selenium testing efforts.
+- All team members: Stay on track with established timelines and communicate effectively.
+
+Next Meeting:
+- No scheduled meetings; this is the last meeting before project submission on January 10, 2024.
