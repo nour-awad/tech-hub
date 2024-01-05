@@ -44,34 +44,33 @@ namespace Tech_Hub.Pages
 
 
 
-        [BindProperty(SupportsGet = true)]
-        public string productName { get; set; }
+		public string productName;
 
-        [BindProperty(SupportsGet = true)]
-        public string productOldPrice { get; set; }
+		public string productOldPrice;
 
-        [BindProperty(SupportsGet = true)]
-        public string productNewPrice { get; set; }
+		public string productNewPrice;
 
-        [BindProperty(SupportsGet = true)]
-        public string productCategory { get; set; }
+		public string productCategory;
 
 
 
-        int review_id = 32;
+		int review_id = 33;
         int product_id = 30;
 
 
-        public void OnGet(string ProductName,string category,string oldprice,string newprice,string namme,string emaiil,string revieew,int ratingg)
+        public void OnGet(string namme,string emaiil,string revieew,int ratingg)
         {
 
-            productName = ProductName;
-            productCategory = category; 
-            productOldPrice = oldprice; 
-            productNewPrice = newprice;
+			productName = "Sony Headphone";
+
+			productOldPrice = "$100";
+
+			productNewPrice = "$130";
+
+			productCategory = "Headphones";
 
 
-            DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", review_id + 1, 5, DateTime.Now, revieew, 1, product_id);
+			DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", review_id + 1, 5, DateTime.Now, revieew, 1, product_id);
             review_id++;
 
 

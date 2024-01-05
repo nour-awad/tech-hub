@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Data;
+using System.Data.SqlTypes;
+
 namespace Tech_Hub.Pages;
 
 public class SignIn : PageModel
@@ -16,7 +18,7 @@ public class SignIn : PageModel
         
     }
 
-    public IActionResult OnPost(string user_Email)
+    public IActionResult OnPost()
     {
         bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", user_Email);
         if (is_user)

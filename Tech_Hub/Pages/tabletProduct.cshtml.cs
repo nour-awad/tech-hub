@@ -3,12 +3,12 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Tech_Hub.Pages
 {
-    public class HeadphoneProductModel : PageModel
+    public class tabletProductModel : PageModel
     {
 		DatabaseOperations Operation = new DatabaseOperations();
 
 
-		public HeadphoneProductModel()
+		public tabletProductModel()
 		{
 			ReviewsCount = CountElements(reviews);
 			avg_rating = CalculateAverage(reviews, r => r.Rating);
@@ -59,13 +59,13 @@ namespace Tech_Hub.Pages
 		public void OnGet(string namme, string emaiil, string revieew, int ratingg)
 		{
 
-			productName = "Apple Headphone";
+			productName = "Samsung Tablet";
 
-			productOldPrice = "$500";
+			productOldPrice = "$220";
 
-			productNewPrice = "$470";
+			productNewPrice = "$200";
 
-			productCategory = "Headphones";
+			productCategory = "Tablets";
 
 
 			DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", review_id + 1, 5, DateTime.Now, revieew, 1, product_id);

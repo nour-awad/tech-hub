@@ -248,7 +248,7 @@ namespace Tech_Hub.Pages
                 {
                     connection.Open();
 
-                    string query = $"SELECT COUNT(*) FROM {tableName} WHERE {columnName} = @SearchValue";
+                    string query = $"SELECT COUNT(*) FROM {tableName} WHERE {columnName} = @SearchValue ";
 
                     using (SqlCommand command = new SqlCommand(query, connection))
                     {
