@@ -36,7 +36,7 @@ namespace Tech_Hub.Pages
             return dt;
         }
 
-        public static void InsertReviewData(string con,int reviewId, int rating, DateTime reviewDate, string reviewText, int customerId, int productId)
+        public static void InsertReviewData(string con, int reviewId, int rating, DateTime reviewDate, string reviewText, int customerId, int productId)
         {
             using (SqlConnection connection = new SqlConnection(con))
             {
@@ -44,7 +44,6 @@ namespace Tech_Hub.Pages
                 {
                     connection.Open();
 
-                    // Use parameterized query to prevent SQL injection
                     string query = "INSERT INTO Review (ReviewID, Rating, ReviewDate, ReviewText, CustomerID, ProductID) " +
                                    "VALUES (@ReviewID, @Rating, @ReviewDate, @ReviewText, @CustomerID, @ProductID)";
 
@@ -77,7 +76,6 @@ namespace Tech_Hub.Pages
                 {
                     connection.Open();
 
-                    // Use parameterized query to prevent SQL injection
                     string query = "INSERT INTO Cart (CartID, CustomerID, ProductID, Quantity) " +
                                    "VALUES (@CartID, @CustomerID, @ProductID, @Quantity)";
 
@@ -108,7 +106,6 @@ namespace Tech_Hub.Pages
                 {
                     connection.Open();
 
-                    // Use parameterized query to prevent SQL injection
                     string query = "INSERT INTO Customer (FirstName, LastName, BillingAddress, ShippingAddress, PhoneNumber, Email) " +
                                    "VALUES (@FirstName, @LastName, @BillingAddress, @ShippingAddress, @PhoneNumber, @Email)";
 
@@ -240,37 +237,34 @@ namespace Tech_Hub.Pages
             }
         }
 
+
 		public static bool SearchData(string con, string tableName, string columnName, string search_Value)
 		{
-			using (SqlConnection connection = new SqlConnection(con))
+			try
 			{
-				string query = $"SELECT COUNT(*) FROM {tableName} WHERE {columnName} = {search_Value}";
-
-				try
-				{
+                using(SqlConnection connection = new SqlConnection(con))
+                {
 					connection.Open();
+
+					string query = $"SELECT COUNT(*) FROM {tableName} WHERE {columnName} = @searchValue";
 
 					using (SqlCommand command = new SqlCommand(query, connection))
 					{
-						//command.Parameters.AddWithValue("searchValue", search_Value);
+						command.Parameters.AddWithValue("@searchValue", search_Value);
 
-						Console.WriteLine("Executing query: " + command.CommandText); // Print the query
+						Console.WriteLine("Executing query: " + command.CommandText);
 
 						int count = (int)command.ExecuteScalar();
 
 						return count > 0;
 					}
 				}
-				catch (Exception ex)
-				{
-					Console.WriteLine("Error: " + ex.Message);
-					return false;
-				}
-				finally
-				{
-					connection.Close();
-				}
 			}
+			catch (Exception ex)
+			{
+				Console.WriteLine("Error: " + ex.Message);
+				return false;
+			}			
 		}
 	}
 }

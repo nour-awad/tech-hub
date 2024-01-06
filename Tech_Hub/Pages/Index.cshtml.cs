@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Data.SqlClient;
 
 namespace Tech_Hub.Pages
 {
@@ -16,5 +17,13 @@ namespace Tech_Hub.Pages
         {
 
         }
-    }
+
+        DatabaseOperations Operations = new DatabaseOperations();
+
+		public void btnClick_AddToCart()
+		{
+            DatabaseOperations.InsertCartData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", 1, 1, 1,1);
+
+		}
+	}
 }

@@ -9,10 +9,10 @@ public class SignIn : PageModel
 {
     [Required]
     [BindProperty]
-    public string user_Email { get; set; }
+    public string? user_Email { get; set; }
     [Required]
     [BindProperty]
-    public string user_Password { get; set; }
+	public string user_Password { get; set; }
 
     public void OnGet()
     {
@@ -21,15 +21,23 @@ public class SignIn : PageModel
 
     public IActionResult OnPost()
     {
-        bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer","Email",user_Email);
-        if (is_user)
+        if (ModelState.IsValid)
         {
-            Console.WriteLine("user found");
-            return RedirectToPage("/UserAccount", new { userEmail = user_Email });
+            bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", user_Email);
+            if (is_user)
+            {
+                Console.WriteLine("user found");
+                return RedirectToPage("/UserAccount", new { userEmail = user_Email });
+            }
+            else
+            {
+                Console.WriteLine("cant find user");
+                return RedirectToPage();
+            }
         }
-        else 
+        else
         {
-            Console.WriteLine("cant find user");
+            Console.WriteLine("invalid input");
             return RedirectToPage();
         }
     }

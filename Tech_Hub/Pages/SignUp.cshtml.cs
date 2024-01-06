@@ -1,5 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Xml.Linq;
+using System.ComponentModel.DataAnnotations;
+using System.Diagnostics.Eventing.Reader;
 
 namespace Tech_Hub.Pages
 {
@@ -8,39 +11,54 @@ namespace Tech_Hub.Pages
         DatabaseOperations Operation = new DatabaseOperations();
 
         [BindProperty]
+        [Required]
         public string first_Name { get; set; }
         [BindProperty]
+        [Required]
         public string secound_Name { get; set; }
         [BindProperty]
+        [Required]
         public string user_Email { get; set; }
         [BindProperty]
+        [Required]
+        [StringLength(8, MinimumLength = 8, ErrorMessage = "The password must be at least 8 characters long.")]
         public string user_Password { get; set; }
         [BindProperty]
+        [Required]
+        [Compare(nameof(user_Password), ErrorMessage = "The password and confirmation password do not match.")]
         public string user_RePassword { get; set; }
         [BindProperty]
-        public string user_PhoneNumber { get; set; }
+        public string? user_PhoneNumber { get; set; }
 
         
 
 
 
 
-        public void OnGet(string first_Name, string secound_Name, string user_Email, string user_PhoneNumber)
+        public void OnGet()
         {
-            DatabaseOperations.InsertCustomerData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", first_Name, secound_Name, "--- st", "--- shipping", user_PhoneNumber, user_Email);
+            
         }
 
 
         public IActionResult OnPostSignUp() 
         {
-            bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email",user_Email);
-            if (!is_user)
+            if (ModelState.IsValid)
             {
-                return RedirectToPage();
+                bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", user_Email);
+                if (is_user)
+                {
+                    return RedirectToPage();
+                }
+                else
+                {
+                    DatabaseOperations.InsertCustomerData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", first_Name, secound_Name, "--- st", "--- shipping", user_PhoneNumber, user_Email);
+                    return RedirectToPage("/UserAccount", new { F_name = first_Name, L_name = secound_Name, Email = user_Email, P_number = user_PhoneNumber });
+                }
             }
             else
             {
-                return RedirectToPage("Index");
+                return RedirectToPage();
             }
         }
     }
