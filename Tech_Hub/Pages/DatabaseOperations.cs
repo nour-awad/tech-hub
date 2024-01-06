@@ -4,8 +4,8 @@ namespace Tech_Hub.Pages
 {
     public class DatabaseOperations
     {
-        private string connectionString = "Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True";
-        private SqlConnection con = new SqlConnection();
+        private static string connectionString = "Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True";
+        private SqlConnection con = new SqlConnection(connectionString);
 
         public DatabaseOperations()
         {
@@ -240,32 +240,37 @@ namespace Tech_Hub.Pages
             }
         }
 
-        public static bool SearchData(string con, string tableName, string columnName, string searchValue)
-        {
-            using (SqlConnection connection = new SqlConnection(con))
-            {
-                try
-                {
-                    connection.Open();
+		public static bool SearchData(string con, string tableName, string columnName, string search_Value)
+		{
+			using (SqlConnection connection = new SqlConnection(con))
+			{
+				string query = $"SELECT COUNT(*) FROM {tableName} WHERE {columnName} = {search_Value}";
 
-                    string query = $"SELECT COUNT(*) FROM {tableName} WHERE {columnName} = @SearchValue ";
+				try
+				{
+					connection.Open();
 
-                    using (SqlCommand command = new SqlCommand(query, connection))
-                    {
-                        command.Parameters.AddWithValue("@SearchValue", searchValue);
+					using (SqlCommand command = new SqlCommand(query, connection))
+					{
+						//command.Parameters.AddWithValue("searchValue", search_Value);
 
-                        int count = (int)command.ExecuteScalar();
+						Console.WriteLine("Executing query: " + command.CommandText); // Print the query
 
-                        return count > 0;
-                    }
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine("Error: " + ex.Message);
-                    return false;
-                }
-            }
-        }
-        
-    }
+						int count = (int)command.ExecuteScalar();
+
+						return count > 0;
+					}
+				}
+				catch (Exception ex)
+				{
+					Console.WriteLine("Error: " + ex.Message);
+					return false;
+				}
+				finally
+				{
+					connection.Close();
+				}
+			}
+		}
+	}
 }
