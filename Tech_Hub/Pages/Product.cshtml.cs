@@ -61,13 +61,13 @@ namespace Tech_Hub.Pages
         public void OnGet(string namme,string emaiil,string revieew,int ratingg)
         {
 
-			productName = "Sony Headphone";
+			productName = "MAC BOOK";
 
-			productOldPrice = "$100";
+			productOldPrice = "$950";
 
-			productNewPrice = "$130";
+			productNewPrice = "$1000";
 
-			productCategory = "Headphones";
+			productCategory = "LAPTOPS";
 
 
 			DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", review_id + 1, 5, DateTime.Now, revieew, 1, product_id);
