@@ -62,9 +62,9 @@ namespace Tech_Hub.Pages
 
 			productName = "Samsung phone";
 
-			productOldPrice = "$30";
+			productOldPrice = "$100";
 
-			productNewPrice = "$100";
+			productNewPrice = "$30";
 
 			productCategory = "Phones";
 
