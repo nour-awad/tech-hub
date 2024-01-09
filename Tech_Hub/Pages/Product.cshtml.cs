@@ -70,8 +70,8 @@ namespace Tech_Hub.Pages
 			productCategory = "LAPTOPS";
 
 
-			DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", review_id + 1, 5, DateTime.Now, revieew, 1, product_id);
-            review_id++;
+			DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", 37, 5, DateTime.Now, revieew, 1, product_id);
+            
 
 
 

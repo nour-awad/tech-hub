@@ -14,7 +14,7 @@ namespace Tech_Hub.Pages
 
 
 			
-			return RedirectToPage("/TrachOrder");
+			return RedirectToPage("/TrackOrder");
 		}
 	}
 }
