@@ -18,7 +18,7 @@ namespace Tech_Hub.Pages
             DataTable dt = new DataTable();
             string query = $"select * from {table}";
             SqlCommand cmd = new SqlCommand(query, con);
-
+            
             try
             {
                 con.Open();

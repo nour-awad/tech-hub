@@ -6,8 +6,10 @@ namespace Tech_Hub.Pages
 {
     public class ProductModel : PageModel
     {
+		public List<string> CartListProd = new List<string>();
 
-        DatabaseOperations Operation = new DatabaseOperations();
+
+		DatabaseOperations Operation = new DatabaseOperations();
 
 
         public ProductModel()
@@ -61,6 +63,8 @@ namespace Tech_Hub.Pages
         public void OnGet(string namme,string emaiil,string revieew,int ratingg)
         {
 
+
+
 			productName = "MAC BOOK";
 
 			productOldPrice = "$950";
@@ -100,6 +104,9 @@ namespace Tech_Hub.Pages
             star3Count = starCalculator.CalculateStar3(reviews);
             star4Count = starCalculator.CalculateStar4(reviews);
             star5Count = starCalculator.CalculateStar5(reviews);
+
+
+
         }
 
         public IActionResult OnPostSubmitReview()
@@ -163,5 +170,13 @@ namespace Tech_Hub.Pages
                 return 0;
             }
         }
-    }
+
+		public void addToCart(ProductModel Product_to_add)
+		{
+
+        }
+
+	}
+
+    
 }
