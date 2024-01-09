@@ -14,7 +14,10 @@ namespace Tech_Hub.Pages
         [BindProperty]
         public string Phone { get; set; }
 
+        [BindProperty]
         public string Street { get; set; }
+
+        [BindProperty]
         public string City { get; set; }
 
 
@@ -24,7 +27,9 @@ namespace Tech_Hub.Pages
 
         public IActionResult OnPost()
         {
-            return RedirectToPage("/UserAccount", new { F_name = fullname, Email = EmailAddress, P_number = Phone });
+            Console.WriteLine("onpost is working");
+            return RedirectToPage("/UserAccount", new { F_name = fullname, Email = EmailAddress, P_number = Phone , Address=Street , city=City});
+            
         }
     }
 }

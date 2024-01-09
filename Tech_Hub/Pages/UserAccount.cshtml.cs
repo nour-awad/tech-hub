@@ -17,13 +17,16 @@ public class UserAccount : PageModel
 	[BindProperty(SupportsGet = true)]
 	public string P_number { get; set; }
 
+    [BindProperty(SupportsGet = true)]
+    public string Address { get; set; }
+
+    [BindProperty(SupportsGet = true)]
+    public string city { get; set; }
+
 
     public void OnGet()
     {
-       
         
-       
-
     }
 
 }

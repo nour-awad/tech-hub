@@ -137,62 +137,62 @@
             <div class="col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
                 <div class="card h-100">
                     <div class="card-body">
+                        <form method="post">
+                            <div class="row gutters">
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                    <h6 class="mb-2 primary-text">Personal Details</h6>
+                                </div>
+                            
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group-md">
+                                        <label for="fullName">Full Name</label>
+                                        <input type="text" class="form-control" id="fullName" placeholder="Enter full name" asp-for="@Model.fullname">
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group-md">
+                                        <label for="eMail">Email</label>
+                                        <input type="email" class="form-control" id="eMail" placeholder="Enter email ID" asp-for="@Model.EmailAddress">>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group-md">
+                                        <label for="phone">Phone</label>
+                                        <input type="text" class="form-control" id="phone" placeholder="Enter phone number" asp-for="@Model.Phone">>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row gutters">
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                    <h6 class="mt-3 mb-2 primary-text">Address</h6>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group-md">
+                                        <label for="Street">Street</label>
+                                        <input type="text" class="form-control" id="Street" placeholder="Enter Street" asp-for="@Model.Street">
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
+                                    <div class="form-group-md">
+                                        <label for="ciTy">City</label>
+                                        <input type="text" class="form-control" id="ciTy" placeholder="Enter City" asp-for="@Model.City">
+                                    </div>
+                                </div>
+                            </div>
+                        
                         <div class="row gutters">
                             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <h6 class="mb-2 primary-text">Personal Details</h6>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                <div class="form-group-md">
-                                    <label for="fullName">Full Name</label>
-                                    <input type="text" class="form-control" id="fullName" placeholder="Enter full name" asp-for="@Model.fullname">
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                <div class="form-group-md">
-                                    <label for="eMail">Email</label>
-                                    <input type="email" class="form-control" id="eMail" placeholder="Enter email ID" asp-for="@Model.EmailAddress">>
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                <div class="form-group-md">
-                                    <label for="phone">Phone</label>
-                                    <input type="text" class="form-control" id="phone" placeholder="Enter phone number" asp-for="@Model.Phone">>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row gutters">
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <h6 class="mt-3 mb-2 primary-text">Address</h6>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                <div class="form-group-md">
-                                    <label for="Street">Street</label>
-                                    <input type="name" class="form-control" id="Street" placeholder="Enter Street" asp-for="@Model.Street">
-                                </div>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-                                <div class="form-group-md">
-                                    <label for="ciTy">City</label>
-                                    <input type="name" class="form-control" id="ciTy" placeholder="Enter City">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row gutters">
-                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                                <form action="/UserAccount" method="post">
                                     <input type="hidden" name="F_name" value="@Model.fullname" />
                                     <input type="hidden" name="Email" value="@Model.EmailAddress" />
                                     <input type="hidden" name="P_number" value="@Model.Phone" />
 
                                     <div class="text-right">
                                         <button type="button" id="cancel" class="btn btn-secondary">Cancel</button>
-                                        <input type="submit" class="form-submit"/>
-                                            @*<button type="submit" class="btn primary-btn">Update</button>*@
+                                        <button type="submit" class="btn primary-btn">Update</button>
                                     </div>
-                                </form>
                             </div>
                         </div>
-                        
+                        </form>
                     </div>
                 </div>
             </div>
