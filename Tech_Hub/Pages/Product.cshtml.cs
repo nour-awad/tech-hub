@@ -6,7 +6,6 @@ namespace Tech_Hub.Pages
 {
     public class ProductModel : PageModel
     {
-		public List<string> CartListProd = new List<string>();
 
 
 		DatabaseOperations Operation = new DatabaseOperations();
@@ -171,12 +170,15 @@ namespace Tech_Hub.Pages
             }
         }
 
-		public void addToCart(ProductModel Product_to_add)
+		public void addToCart(string productToAdd)
 		{
 
-        }
+			var product = new Product { Name = productToAdd };
+
+			//cart.CartItems.Add(product);
+		}
 
 	}
 
-    
+
 }

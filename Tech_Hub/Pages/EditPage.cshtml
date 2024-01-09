@@ -1,5 +1,5 @@
 ﻿@page
-@model Tech_Hub.Pages.UserAccount
+@model Tech_Hub.Pages.EditPageModel
 
 @{
     Layout = "_Layout2";
@@ -144,7 +144,7 @@
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
                                 <div class="form-group-md">
                                     <label for="fullName">Full Name</label>
-                                    <input type="text" class="form-control" id="fullName" placeholder="Enter full name">
+                                    <input type="text" class="form-control" id="fullName" placeholder="Enter full name" asp-for="@Model.fullname">
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">

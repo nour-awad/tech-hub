@@ -17,6 +17,7 @@ public class UserAccount : PageModel
 	[BindProperty(SupportsGet = true)]
 	public string P_number { get; set; }
 
+
     public void OnGet()
     {
         
