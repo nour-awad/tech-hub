@@ -6,16 +6,18 @@ namespace Tech_Hub.Pages
 {
     public class ProductModel : PageModel
     {
+        private readonly Cart _cart;
 
-
-		DatabaseOperations Operation = new DatabaseOperations();
+        DatabaseOperations Operation = new DatabaseOperations();
 
 
         public ProductModel()
         {
 			ReviewsCount = CountElements(reviews);
 			avg_rating = CalculateAverage(reviews, r => r.Rating);
-		}
+
+            _cart = new Cart();
+        }
         
 
         private List<Review> reviews = new List<Review>();
@@ -170,15 +172,30 @@ namespace Tech_Hub.Pages
             }
         }
 
-		public void addToCart(string productToAdd)
-		{
+        public IActionResult OnpostAddToCart()
+        {
+            Console.WriteLine("adddddddddddddddddd");
+            _cart.AddToCart(productName);
+            Console.WriteLine("product added");
+            Console.WriteLine(_cart);
+            return RedirectToPage();
+        }
 
-			var product = new Product { Name = productToAdd };
+        public void addToCart(string productToAdd)
+        {
+            //var product = new Product { Name = "mackbook" };
+            _cart.AddToCart(productToAdd);
+        }
 
-			//cart.CartItems.Add(product);
+        public void removeFromCart(string productToRemove)
+        {
+            //var product = new Product { Name = "macbook" };
+            _cart.RemoveFromCart(productToRemove);
+			Console.WriteLine("product removed");
+			Console.WriteLine(_cart);
 		}
 
-	}
+    }
 
 
 }
