@@ -171,31 +171,13 @@ namespace Tech_Hub.Pages
                 return 0;
             }
         }
-
-        public IActionResult OnpostAddToCart()
-        {
-            Console.WriteLine("adddddddddddddddddd");
-            _cart.AddToCart(productName);
-            Console.WriteLine("product added");
-            Console.WriteLine(_cart);
-            return RedirectToPage();
-        }
-
-        public void addToCart(string productToAdd)
-        {
-            //var product = new Product { Name = "mackbook" };
-            _cart.AddToCart(productToAdd);
-        }
-
-        public void removeFromCart(string productToRemove)
-        {
-            //var product = new Product { Name = "macbook" };
-            _cart.RemoveFromCart(productToRemove);
-			Console.WriteLine("product removed");
-			Console.WriteLine(_cart);
+		public void OnPostAddToCart()
+		{
+            DatabaseOperations.InsertCartData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True",31,1,1,1);
 		}
 
-    }
+	}
+
 
 
 }

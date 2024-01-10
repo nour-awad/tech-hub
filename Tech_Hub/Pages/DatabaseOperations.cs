@@ -131,9 +131,9 @@ namespace Tech_Hub.Pages
         }
 
 
-        public static void DeleteData(string tableName, string columnName, string inputValue)
+        public static void DeleteData(string con,string tableName, string columnName, string inputValue)
         {
-            using (SqlConnection connection = new SqlConnection())
+            using (SqlConnection connection = new SqlConnection(con))
             {
                 try
                 {

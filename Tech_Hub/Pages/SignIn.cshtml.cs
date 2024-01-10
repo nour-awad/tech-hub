@@ -14,31 +14,42 @@ public class SignIn : PageModel
     [BindProperty]
 	public string user_Password { get; set; }
 
-    public void OnGet()
+
+
+
+	[BindProperty(SupportsGet = true)]
+	public string f_name { get; set; }
+
+	[BindProperty(SupportsGet = true)]
+	public string l_name { get; set; }
+
+	[BindProperty(SupportsGet = true)]
+	public string email { get; set; }
+
+	[BindProperty(SupportsGet = true)]
+	public string Phone_number { get; set; }
+
+
+	public void OnGet()
     {
         
     }
 
     public IActionResult OnPost()
     {
-        if (ModelState.IsValid)
+
+        bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", user_Email);
+        if (is_user)
         {
-            bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", user_Email);
-            if (is_user)
-            {
-                Console.WriteLine("user found");
-                return RedirectToPage("/UserAccount", new { userEmail = user_Email });
-            }
-            else
-            {
-                Console.WriteLine("cant find user");
-                return RedirectToPage();
-            }
+            Console.WriteLine("user found");
+            return RedirectToPage("/UserAccount", new { Email = user_Email , F_name=f_name, L_name =l_name , P_number = Phone_number});
         }
         else
         {
-            Console.WriteLine("invalid input");
+            Console.WriteLine("cant find user");
             return RedirectToPage();
         }
     }
+
+    
 }

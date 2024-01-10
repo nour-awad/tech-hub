@@ -116,7 +116,9 @@
 								<span class="qty-down">-</span>
 							</div>
 						</div>
-						<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> add to cart</button>
+						<<form method="post" asp-page-handler="AddToCart">
+							<button class="add-to-cart-btn" type="submit"><i class="fa fa-shopping-cart"></i>Add to Cart</button>
+						</form>
 					</div>
 
 					<ul class="product-btns">

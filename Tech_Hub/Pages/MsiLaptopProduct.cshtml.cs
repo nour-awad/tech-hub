@@ -161,5 +161,10 @@ namespace Tech_Hub.Pages
 				return 0;
 			}
 		}
+
+		public void OnPostAddToCart()
+		{
+			DatabaseOperations.InsertCartData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", 31, 1, 1, 1);
+		}
 	}
 }
