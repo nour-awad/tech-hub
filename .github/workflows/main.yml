@@ -2,30 +2,37 @@ name: CI Pipeline
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  build-and-push:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      -uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      -name: Set up ASP.NET
-      uses: actions/setup-ASP.NET@v2
+    - name: Setup .NET Core SDK
+      uses: actions/setup-dotnet@v1
       with:
-        asp-version: '7.0'
+        dotnet-version: '3.1'  # Replace with the desired .NET Core SDK version
 
-      -name: Install dependencies 
-      run: |
-        pip install -r requirements.txt
+    - name: Restore dependencies
+      run: dotnet restore
 
-      name: Run tests with pytest
-      run: |
-        pip install pytest 
-        pytest
+    - name: Build
+      run: dotnet build --configuration Release
 
-      -name: Build and push Docker image run: |
+    - name: Run tests
+      run: dotnet test --configuration Release
+
+
+    - name: Build and push Docker image 
+      run: | 
         docker build -t ${{ secrets. ACR_LOGIN_SERVER }}/my-flask-app:latest .
         docker login ${{ secrets.ACR_LOGIN_SERVER }}
         -u ${{ secrets. ACR_USERNAME }} -p ${{ secrets.ACR_PASSWORD }} 
