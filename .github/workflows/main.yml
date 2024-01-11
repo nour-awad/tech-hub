@@ -19,7 +19,7 @@ jobs:
     - name: Setup .NET Core SDK
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '3.1'  # Replace with the desired .NET Core SDK version
+        dotnet-version: '4.5'  
 
     - name: Restore dependencies
       run: dotnet restore
@@ -30,10 +30,8 @@ jobs:
     - name: Run tests
       run: dotnet test --configuration Release
 
-
     - name: Build and push Docker image 
       run: | 
-        docker build -t ${{ secrets. ACR_LOGIN_SERVER }}/my-flask-app:latest .
-        docker login ${{ secrets.ACR_LOGIN_SERVER }}
-        -u ${{ secrets. ACR_USERNAME }} -p ${{ secrets.ACR_PASSWORD }} 
-        docker push ${{ secrets.ACR_LOGIN_SERVER }}/my-flask-app:latest
+        docker build -t ${{ secrets.ACR_LOGIN_SERVER }}/tech-hub-server:latest .
+        docker login ${{ secrets.ACR_LOGIN_SERVER }} -u ${{ TechHub6 }} -p ${{ Kp6aigD4VURyJxcjBJQ9APs2zjiVeMm8/HG1Ac1t0V+ACRDadIhl }}
+        docker push ${{ secrets.ACR_LOGIN_SERVER }}/tech-hub-server:latest
