@@ -29,5 +29,5 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         push: true
-        tags: ${{ secrets.REGISTRY_LOGIN_SERVER }}/zc-events:${{ github.sha }}
-        file: ZCEvents/Dockerfile
+        tags: ${{ secrets.REGISTRY_LOGIN_SERVER }}/tech-hub:${{ github.sha }}
+        file: Dockerfile
