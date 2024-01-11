@@ -43,23 +43,17 @@ namespace Tech_Hub.Pages
 
         public IActionResult OnPostSignUp() 
         {
-            if (ModelState.IsValid)
-            {
-                bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", user_Email);
-                if (is_user)
-                {
-                    return RedirectToPage();
-                }
-                else
-                {
-                    DatabaseOperations.InsertCustomerData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", first_Name, secound_Name, "--- st", "--- shipping", user_PhoneNumber, user_Email);
-                    return RedirectToPage("/UserAccount", new { F_name = first_Name, L_name = secound_Name, Email = user_Email, P_number = user_PhoneNumber });
-                }
-            }
-            else
+            bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", user_Email);
+            if (is_user)
             {
                 return RedirectToPage();
             }
+            else
+            {
+                DatabaseOperations.InsertCustomerData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", first_Name, secound_Name, "--- st", "--- shipping", user_PhoneNumber, user_Email);
+                return RedirectToPage("/SignIn", new { f_name = first_Name, l_name = secound_Name, email = user_Email, Phone_number = user_PhoneNumber });
+            }
+            
         }
     }
 
