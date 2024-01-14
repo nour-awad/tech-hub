@@ -10,6 +10,9 @@ public class SignIn : PageModel
     [Required]
     [BindProperty]
     public string? user_Email { get; set; }
+
+    public string emmmail = "robert.j@example.com";
+
     [Required]
     [BindProperty]
 	public string user_Password { get; set; }
@@ -32,13 +35,13 @@ public class SignIn : PageModel
 
 	public void OnGet()
     {
-        
+            
     }
 
     public IActionResult OnPost()
     {
 
-        bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", user_Email);
+        bool is_user = DatabaseOperations.SearchData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", "Customer", "Email", emmmail);
         if (is_user)
         {
             Console.WriteLine("user found");

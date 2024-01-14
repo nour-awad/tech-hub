@@ -26,6 +26,7 @@ namespace Tech_Hub.Pages
 
         StarCalculator starCalculator = new StarCalculator();
 
+
         public int ReviewsCount { get; set; }
         public float avg_rating { get; set; }
 
@@ -75,8 +76,8 @@ namespace Tech_Hub.Pages
 			productCategory = "LAPTOPS";
 
 
-			DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", 37, 5, DateTime.Now, revieew, 1, product_id);
-            
+			DatabaseOperations.InsertReviewData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True", 48, 5, DateTime.Now, revieew, 1, product_id);
+
 
 
 
@@ -85,7 +86,8 @@ namespace Tech_Hub.Pages
                 UserName = "karim",
                 Email = "john@example.com",
                 Comment = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                Rating = 5
+                Rating = 5,
+                now = DateTime.Now
             });
 
             
@@ -106,22 +108,23 @@ namespace Tech_Hub.Pages
             star4Count = starCalculator.CalculateStar4(reviews);
             star5Count = starCalculator.CalculateStar5(reviews);
 
-
-
-        }
+		}
 
         public IActionResult OnPostSubmitReview()
         {
-
-            reviews.Add(new Review
+			Console.WriteLine("on post");
+			reviews.Add(new Review
             {
                 UserName = namme,
                 Email = emaiil,
                 Comment = revieew,
                 Rating = ratingg
+                
             });
 
-            ReviewsCount = CountElements(reviews);
+
+			ReviewsCount = CountElements(reviews);
+
 
             avg_rating = CalculateAverage(reviews, r => r.Rating);
 
@@ -131,13 +134,11 @@ namespace Tech_Hub.Pages
             star4Count = starCalculator.CalculateStar4(reviews);
             star5Count = starCalculator.CalculateStar5(reviews);
 
-           
-            
-            return RedirectToPage();
+			return RedirectToPage();
             
         }
 
-        private static int CountElements<T>(List<T> list)
+        public static int CountElements<T>(List<T> list)
         {
             int count = 0;
 
@@ -153,7 +154,7 @@ namespace Tech_Hub.Pages
         {
             int count = 0;
             int sum = 0;
-            float avg=0;
+            float avg;
             
             foreach (T item in list)
             {
@@ -173,7 +174,7 @@ namespace Tech_Hub.Pages
         }
 		public void OnPostAddToCart()
 		{
-            DatabaseOperations.InsertCartData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True",31,1,1,1);
+            DatabaseOperations.InsertCartData("Data Source=kimo;Initial Catalog=\"TechHub Database\";Integrated Security=True",39,1,1,1);
 		}
 
 	}
